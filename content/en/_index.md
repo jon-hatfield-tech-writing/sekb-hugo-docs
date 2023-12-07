@@ -2,25 +2,17 @@
 title: Goldydocs
 ---
 
-{{< blocks/cover title="Welcome to Goldydocs: A Docsy Example Project!" image_anchor="top" height="full" >}}
-<a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
-  Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
-</a>
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/google/docsy-example">
-  Download <i class="fab fa-github ms-2 "></i>
-</a>
-<p class="lead mt-5">Porridge temperature assessment &mdash; in the cloud!</p>
+{{< blocks/cover title="Software engineer knowledge base" image_anchor="top" height="full" >}}
+<p class="lead mt-5">Enhance your engineering knowledge</p>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
 
 {{% blocks/lead color="primary" %}}
-Goldydocs provides a single web UI providing visibility into porridge
-temperature, chair size, and bed softness metrics! You can even find out who's
-been eating **your** porridge.
+Software engineers need knowledge beyond one or more core programming languages.
 
-(Sadly, Goldydocs isn't a real project, but you can use this site as an example
-to create your own real websites with [Docsy](https://docsy.dev))
+Browse this knowledge base to identify and resolve knowledge gaps.
+
 {{% /blocks/lead %}}
 
 
@@ -28,24 +20,21 @@ to create your own real websites with [Docsy](https://docsy.dev))
 
 
 {{< cardpane >}}
-{{< card header="Header card 1" >}}
-hello
-[More details]({{< ref "/docs/getting-started/example-page.md" >}})
-xyz
+{{< card header="CI/CD" >}}
+
+![Image alt](/continuous-integration.png)
+
+Automate deployment
+
+<a class="btn btn-lg btn-primary me-3 mb-4" href="{{< relref "/docs/getting-started/example-page.md" >}}">
+  Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
+</a>
+
 {{< /card >}}
 {{< card header="Header card 2" >}}
 Content card 2
 {{< /card >}}
 {{< card header="Header card 3" >}}
-Content card 3
-{{< /card >}}
-{{< card header="Header card 4" >}}
-Content card 1
-{{< /card >}}
-{{< card header="Header card 5" >}}
-Content card 2
-{{< /card >}}
-{{< card header="Header card 6" >}}
 Content card 3
 {{< /card >}}
 {{< /cardpane >}}
@@ -60,7 +49,7 @@ Content card 3
 
 
 {{% blocks/section %}}
-This is the second section
+Manipulate data
 {.h1 .text-center}
 
 [More details]({{< ref "/docs/getting-started/example-page.md" >}})
@@ -71,12 +60,17 @@ This is the second section
 {{% blocks/section type="row" %}}
 
 hello
-{.fw-bold}
+{.h1 .text-center}
 
 {{% /blocks/section %}}
 
 
 {{% blocks/section %}}
-This is the another section
+Develop soft skills
+{.h1 .text-center}
+{{% /blocks/section %}}
+
+{{% blocks/section color="orange" %}}
+Or
 {.h1 .text-center}
 {{% /blocks/section %}}

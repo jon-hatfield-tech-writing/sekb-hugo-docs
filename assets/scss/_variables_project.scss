@@ -13,18 +13,11 @@ Add styles or override variables from the theme here.
 .card-body {
     color: #000 !important;
     background-color: #c0e0de;
+    text-align: center;
 }
 
 .card-header {
     color: #6c757d !important;
-}
-
-.card-body a {
-    color: #0b5ace !important;
-}
-
-.card-body a:hover {
-    color: #083f90 !important;
 }
 
 .breadcrumb ol {
