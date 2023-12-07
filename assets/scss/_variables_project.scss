@@ -2,5 +2,39 @@
 
 Add styles or override variables from the theme here.
 
-*/
 
+
+*/
+.td-card-group, .card-group, .td-card-group.card-group {
+    font-weight: bold;
+    max-width: 100% !important;
+}
+
+.card-body {
+    color: #000 !important;
+    background-color: #c0e0de;
+}
+
+.card-header {
+    color: #6c757d !important;
+}
+
+.card-body a {
+    color: #0b5ace !important;
+}
+
+.card-body a:hover {
+    color: #083f90 !important;
+}
+
+.breadcrumb ol {
+  padding-left: 0;
+}
+
+.breadcrumb li {
+  display: inline;
+}
+
+.breadcrumb li:not(:last-child)::after {
+  content: "»";
+}
