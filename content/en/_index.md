@@ -27,7 +27,7 @@ Browse this knowledge base to identify and resolve knowledge gaps.
 Automate deployment
 
 <a class="btn btn-lg btn-primary me-3 mb-4" href="{{< relref "/docs/getting-started/example-page.md" >}}">
-  Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
+  Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
 {{< /card >}}
