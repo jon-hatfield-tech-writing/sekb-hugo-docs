@@ -1,6 +1,7 @@
 ---
 title: Documentation
-linkTitle: Docs
+linkTitle: Articles
+slug: articles
 menu: {main: {weight: 20}}
 weight: 20
 ---
