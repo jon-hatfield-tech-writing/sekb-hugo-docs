@@ -17,17 +17,11 @@ tags: [languages, advanced, study]
 ## Examples
 
 * Expert level study:
-  * Undergraduate Computer Science or higher
   * [AWS Certified Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-professional)
-  * [Java certification](https://education.oracle.com/certification)
 * Advanced concepts:
-  * Java reflection
-  * Database tuning
-  * Building new frameworks
+  * [Java reflection](https://www.oracle.com/technical-resources/articles/java/javareflection.html)
 * Language inner workings:
-  * Compiler optimisation
-  * SDK customisation
-  * Python memory management
+  * [Python memory management](https://docs.python.org/3.12/c-api/memory.html)
 
 ## See also
 

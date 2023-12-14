@@ -9,7 +9,7 @@ tags: [languages, configuration, administration, presentation]
 {{% pageinfo %}}
 
 * Configure applications.
-* Administer systems.
+* Promote reuse with templating engines.
 * Present data.
 
 {{% /pageinfo %}}
@@ -17,19 +17,14 @@ tags: [languages, configuration, administration, presentation]
 ## Examples
 
 * Configuration:
-  * YML
-  * JSON
-  * TOML
-* System administration:
-  * Bash scripts
-  * PowerShell
-  * Jenkinsfile
+  * [YAML](https://yaml.org/)
+* Templates:
+  * [Thymeleaf](https://www.thymeleaf.org/)
 * Presentation:
-  * Markdown markup (links...)
-  * Handlebars templating
-  * CSS
+  * [Markdown](https://www.markdownguide.org/)
 
 ## See also
 
 [Link here]({{< ref "/delve-into-the-stack" >}} "devops") *Be comfortable with command-line interfaces -> devops*
 Write scripts to automate processes. Linux command line interface.
+see also - frameworks & reciprocate link

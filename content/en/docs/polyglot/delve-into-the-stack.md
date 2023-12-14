@@ -16,18 +16,12 @@ tags: [languages, frontend, backend]
 
 ## Examples
 
-* Frontend:
-  * Javascript
-  * CSS
-  * HTML
-* Backend:
-  * Java
-  * Python
-  * C++
+* Adeptness at frontend and backend:
+  * [JavaScript](https://www.javascript.com/) & [Java](https://www.java.com/en/)
+* Full stack development:
+  * [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle))
 * Specialists:
-  * Database administrator
-  * Web developer
-  * Operating system developer
+  * [Operating system developer](https://wiki.osdev.org/Getting_Started)
 
 ## See also
 
