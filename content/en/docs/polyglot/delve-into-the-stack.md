@@ -1,18 +1,18 @@
 ---
-title: Full stack development
-url: /articles/polyglot/full-stack-development
+title: Delve into the stack
+url: /articles/polyglot/delve-into-the-stack
 tags: [languages, frontend, backend]
 ---
 
-{{% pageinfo %}}
-Delve into the stack.
-{{% /pageinfo %}}
-
 ## Requirements
+
+{{% pageinfo %}}
 
 * Be adept with both frontend and backend languages.
 * Write features across the full stack.
 * Work with specialist developers.
+
+{{% /pageinfo %}}
 
 ## Examples
 

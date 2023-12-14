@@ -1,18 +1,18 @@
 ---
-title: Supporting languages
-url: /articles/polyglot/supporting-languages
+title: Supplement core languages
+url: /articles/polyglot/supplement-core-language
 tags: [languages, configuration, administration, presentation]
 ---
 
-{{% pageinfo %}}
-Supplement core languages.
-{{% /pageinfo %}}
-
 ## Requirements
 
-* Configure applications. 
+{{% pageinfo %}}
+
+* Configure applications.
 * Administer systems.
 * Present data.
+
+{{% /pageinfo %}}
 
 ## Examples
 

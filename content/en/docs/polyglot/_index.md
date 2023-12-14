@@ -6,7 +6,5 @@ weight: 1
 ---
 
 {{% pageinfo %}}
-Be a polyglot.
-{{% /pageinfo %}}
-
 Polyglots understand the big picture.
+{{% /pageinfo %}}

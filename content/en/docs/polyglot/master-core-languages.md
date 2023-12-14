@@ -1,18 +1,18 @@
 ---
-title: Language expertise
-url: /articles/polyglot/language-expertise
+title: Master core languages
+url: /articles/polyglot/master-core-languages
 tags: [languages, advanced, study]
 ---
 
-{{% pageinfo %}}
-Master core languages.
-{{% /pageinfo %}}
-
 ## Requirements
+
+{{% pageinfo %}}
 
 * Study at expert level.
 * Implement advanced concepts where appropriate.
 * Understand language inner workings.
+
+{{% /pageinfo %}}
 
 ## Examples
 

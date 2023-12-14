@@ -10,9 +10,13 @@ Add styles or override variables from the theme here.
     max-width: 100% !important;
 }
 
+.card {
+    background-color: #c0e0de !important;
+    border-radius: 0.375rem;
+}
+
 .card-body {
     color: #000 !important;
-    background-color: #c0e0de;
     text-align: center;
 }
 

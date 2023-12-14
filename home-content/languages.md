@@ -5,35 +5,35 @@ Be a polyglot
 
 {{% blocks/section color="dark" type="row" %}}
 {{< cardpane >}}
-{{< card header="Full stack development" >}}
+{{< card >}}
 
-![Image alt](/continuous-integration.png)
+![Image alt](/stack.png)
 
 Delve into the stack
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< ref "/docs/polyglot/full-stack-development" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< ref "/docs/polyglot/delve-into-the-stack" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
 {{< /card >}}
-{{< card header="Language expertise" >}}
+{{< card >}}
 
-![Image alt](/continuous-integration.png)
+![Image alt](/graduation.png)
 
 Master core languages
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/language-expertise" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/master-core-languages" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
 {{< /card >}}
-{{< card header="Supporting languages" >}}
+{{< card >}}
 
-![Image alt](/continuous-integration.png)
+![Image alt](/attach.png)
 
 Supplement core languages
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supporting-languages" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supplement-core-languages" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 {{< /card >}}
