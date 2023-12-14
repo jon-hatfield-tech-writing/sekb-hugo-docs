@@ -31,4 +31,4 @@ tags: [languages, frontend, backend]
 
 ## See also
 
-[Link here]({{< ref "/example-page" >}} "Link")
+[Link here]({{< ref "/delve-into-the-stack" >}} "Link")

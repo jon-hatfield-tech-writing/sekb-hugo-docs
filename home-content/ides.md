@@ -11,7 +11,7 @@ IDEs
 
 build tools
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/getting-started/example-page.md" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supplement-core-languages" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
@@ -22,7 +22,7 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 
 version control (better than cli - annotate lines, resolve conflicts)
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/getting-started/example-page.md" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supplement-core-languages" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
@@ -33,7 +33,7 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 
 debugging
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/getting-started/example-page.md" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supplement-core-languages" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 

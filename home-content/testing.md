@@ -11,7 +11,7 @@ testing
 
 tdd
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/getting-started/example-page.md" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supplement-core-languages" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
@@ -22,7 +22,7 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 
 bdd
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/getting-started/example-page.md" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supplement-core-languages" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
@@ -33,7 +33,7 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 
 test pyramid comp unit
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/getting-started/example-page.md" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supplement-core-languages" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
@@ -47,7 +47,7 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 
 mocking
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/getting-started/example-page.md" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supplement-core-languages" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
@@ -58,7 +58,7 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 
 e2e
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/getting-started/example-page.md" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supplement-core-languages" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
@@ -69,7 +69,7 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 
 code coverage (tools - sonarcube)
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/getting-started/example-page.md" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supplement-core-languages" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 

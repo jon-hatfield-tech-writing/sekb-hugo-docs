@@ -31,5 +31,5 @@ tags: [languages, configuration, administration, presentation]
 
 ## See also
 
-[Link here]({{< ref "/example-page" >}} "devops") *Be comfortable with command-line interfaces -> devops*
+[Link here]({{< ref "/delve-into-the-stack" >}} "devops") *Be comfortable with command-line interfaces -> devops*
 Write scripts to automate processes. Linux command line interface.

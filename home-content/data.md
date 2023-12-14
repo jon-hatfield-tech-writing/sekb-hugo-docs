@@ -5,35 +5,35 @@ Manipulate data
 
 {{% blocks/section color="dark" type="row" %}}
 {{< cardpane >}}
-{{< card header="SQL" >}}
+{{< card >}}
 
-![Image alt](/continuous-integration.png)
+![Image alt](/sql.png)
 
 SQL
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/getting-started/example-page.md" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/data/sql" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
 {{< /card >}}
-{{< card header="NoSQL" >}}
+{{< card >}}
 
-![Image alt](/continuous-integration.png)
+![Image alt](/nosql.png)
 
 NoSQL
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/getting-started/example-page.md" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/data/nosql" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
 {{< /card >}}
-{{< card header="Graph DBs" >}}
+{{< card >}}
 
-![Image alt](/continuous-integration.png)
+![Image alt](/graph-db.png)
 
-Graph DBs
+Graph Databases
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/getting-started/example-page.md" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/data/graph-databases" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
