@@ -1,39 +1,39 @@
 {{% blocks/lead color="orange" %}}
-apis
+Leverage APIs
 {.h1 .text-center}
 {{% /blocks/lead %}}
 
 {{% blocks/section color="dark" type="row" %}}
 {{< cardpane >}}
-{{< card header="design" >}}
+{{< card >}}
 
-![Image alt](/continuous-integration.png)
+![Image alt](/crud.png)
 
-api design idempotent crud-http methods
+Design
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supplement-core-languages" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/apis/api-design" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
 {{< /card >}}
-{{< card header="docs" >}}
+{{< card >}}
 
-![Image alt](/continuous-integration.png)
+![Image alt](/implementation.png)
 
-api docs swagger
+Implementation
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supplement-core-languages" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/apis/api-implementation" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
 {{< /card >}}
-{{< card header="security" >}}
+{{< card >}}
 
-![Image alt](/continuous-integration.png)
+![Image alt](/docs.png)
 
-api security (link to security) oauth api gateways kong
+Documentation
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supplement-core-languages" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/apis/api-documentation" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
