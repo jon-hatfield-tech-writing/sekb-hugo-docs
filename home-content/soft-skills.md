@@ -5,71 +5,35 @@ Develop soft skills
 
 {{% blocks/section color="dark" type="row" %}}
 {{< cardpane >}}
-{{< card header="tech support" >}}
+{{< card >}}
 
-![Image alt](/continuous-integration.png)
+![Image alt](/management.png)
 
-tech support
+Management
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supplement-core-languages" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/soft-skills/management" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
 {{< /card >}}
-{{< card header="mentoring" >}}
+{{< card >}}
 
-![Image alt](/continuous-integration.png)
+![Image alt](/teamwork.png)
 
-mentoring
+Teamwork
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supplement-core-languages" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/soft-skills/teamwork" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
 {{< /card >}}
-{{< card header="prioritisation" >}}
+{{< card >}}
 
-![Image alt](/continuous-integration.png)
+![Image alt](/tech-support.png)
 
-prioritisation
+Tech support
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supplement-core-languages" >}}">
-Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
-</a>
-
-{{< /card >}}
-{{< /cardpane >}}
-
-{{< cardpane >}}
-{{< card header="time estimates" >}}
-
-![Image alt](/continuous-integration.png)
-
-time estimates
-
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supplement-core-languages" >}}">
-Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
-</a>
-
-{{< /card >}}
-{{< card header="presentations" >}}
-
-![Image alt](/continuous-integration.png)
-
-presentations
-
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supplement-core-languages" >}}">
-Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
-</a>
-
-{{< /card >}}
-{{< card header="knowledge transfer" >}}
-
-![Image alt](/continuous-integration.png)
-
-knowledge transfer
-
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supplement-core-languages" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/soft-skills/tech-support" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
