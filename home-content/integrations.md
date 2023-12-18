@@ -1,39 +1,39 @@
 {{% blocks/lead color="cyan" %}}
-integrations
+Integrate components
 {.h1 .text-center}
 {{% /blocks/lead %}}
 
 {{% blocks/section color="dark" type="row" %}}
 {{< cardpane >}}
-{{< card header="messaging" >}}
+{{< card >}}
 
-![Image alt](/continuous-integration.png)
+![Image alt](/message.png)
 
-messaging (decoupling etc) eg kafka rabbit sns&sqs
+Messaging
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supplement-core-languages" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/integrations/messaging" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
 {{< /card >}}
-{{< card header="restful integration" >}}
+{{< card >}}
 
-![Image alt](/continuous-integration.png)
+![Image alt](/http.png)
 
-rest api own and third party
+API integrations
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supplement-core-languages" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/integrations/api-integrations" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
 {{< /card >}}
-{{< card header="data warehousing" >}}
+{{< card >}}
 
-![Image alt](/continuous-integration.png)
+![Image alt](/data-integration.png)
 
-data warehousing
+Data integrations
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supplement-core-languages" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/integrations/data-integrations" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 

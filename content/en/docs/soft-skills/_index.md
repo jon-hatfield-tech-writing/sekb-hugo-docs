@@ -1,5 +1,5 @@
 ---
-title: Soft skills
+title: Develop soft skills
 url: /articles/soft-skills
 tags: [languages]
 weight: 1
