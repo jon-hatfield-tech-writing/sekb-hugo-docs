@@ -18,7 +18,7 @@ Browse this knowledge base to identify and resolve knowledge gaps.
 {{% readfile "home-content/data.md" %}}
 {{% readfile "home-content/devops.md" %}}
 {{% readfile "home-content/soft-skills.md" %}}
-{{% readfile "home-content/methodologies.md" %}}
+{{% readfile "home-content/agile.md" %}}
 {{% readfile "home-content/integrations.md" %}}
 
 <!-- reset colour order -->
