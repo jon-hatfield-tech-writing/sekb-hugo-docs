@@ -6,5 +6,5 @@ weight: 1
 ---
 
 {{% pageinfo %}}
-Elegant designs promote clarity.
+Elegant designs clarify system behaviour.
 {{% /pageinfo %}}
