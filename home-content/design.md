@@ -1,39 +1,39 @@
 {{% blocks/lead color="teal" %}}
-design
+Design elegantly
 {.h1 .text-center}
 {{% /blocks/lead %}}
 
 {{% blocks/section color="dark" type="row" %}}
 {{< cardpane >}}
-{{< card header="design patterns" >}}
+{{< card >}}
 
-![Image alt](/continuous-integration.png)
+![Image alt](/design-patterns.png)
 
-design patterns
+Design patterns
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supplement-core-languages" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/design/design-patterns" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
 {{< /card >}}
-{{< card header="architecture" >}}
+{{< card >}}
 
-![Image alt](/continuous-integration.png)
+![Image alt](/architecture.png)
 
-architecture eg. microservices
+Architecture
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supplement-core-languages" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/design/architecture" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
 {{< /card >}}
-{{< card header="uml" >}}
+{{< card >}}
 
-![Image alt](/continuous-integration.png)
+![Image alt](/docs.png)
 
-uml
+Documentation
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supplement-core-languages" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/design/system-documentation" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
