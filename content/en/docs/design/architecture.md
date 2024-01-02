@@ -9,8 +9,8 @@ tags: [languages, configuration, administration, presentation]
 {{% pageinfo %}}
 
 * Choose a suitable overarching design.
+* Enforce system-wide consistency with domain-driven design.
 * Define components.
-* Choose communication protocols.
 
 {{% /pageinfo %}}
 
@@ -18,10 +18,10 @@ tags: [languages, configuration, administration, presentation]
 
 * Overarching design:
   * [Event-driven architecture](https://en.wikipedia.org/wiki/Event-driven_architecture)
+* Domain-driven design:
+  * [Ubiquitous language](https://martinfowler.com/bliki/UbiquitousLanguage.html)
 * Components:
   * [Microservices](https://microservices.io/)
-* Communication protocols:
-  * [HTTP](https://en.wikipedia.org/wiki/HTTP)
 
 ## See also
 

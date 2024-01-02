@@ -31,7 +31,7 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 
 ![Image alt](/docs.png)
 
-Documentation
+System documentation
 
 <a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/design/system-documentation" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>

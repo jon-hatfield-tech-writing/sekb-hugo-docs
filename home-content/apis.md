@@ -9,7 +9,7 @@ Leverage APIs
 
 ![Image alt](/crud.png)
 
-Design
+API design
 
 <a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/apis/api-design" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
@@ -31,7 +31,7 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 
 ![Image alt](/docs.png)
 
-Documentation
+API documentation
 
 <a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/apis/api-documentation" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>

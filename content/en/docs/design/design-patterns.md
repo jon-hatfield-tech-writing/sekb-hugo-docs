@@ -10,7 +10,7 @@ tags: [languages, frontend, backend]
 
 * Implement features with Gang of Four design patterns.
 * Integrate components with integration patterns.
-* Enforce system-wide consistency with domain-driven design.
+* Apply SOLID principles.
 
 {{% /pageinfo %}}
 
@@ -20,8 +20,8 @@ tags: [languages, frontend, backend]
   * [Factory method pattern](https://en.wikipedia.org/wiki/Factory_method_pattern)
 * Integration patterns:
   * [Event message](https://www.enterpriseintegrationpatterns.com/patterns/messaging/EventMessage.html)
-* Domain-driven design patterns:
-  * [Ubiquitous language](https://martinfowler.com/bliki/UbiquitousLanguage.html)
+* SOLID principles:
+  * [Single responsibility principle](https://en.wikipedia.org/wiki/Single_responsibility_principle)
 
 ## See also
 

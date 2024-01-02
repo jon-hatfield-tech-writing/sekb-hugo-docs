@@ -1,75 +1,39 @@
 {{% blocks/lead color="blue" %}}
-testing
+Test thoroughly
 {.h1 .text-center}
 {{% /blocks/lead %}}
 
 {{% blocks/section color="dark" type="row" %}}
 {{< cardpane >}}
-{{< card header="tdd" >}}
+{{< card >}}
 
-![Image alt](/continuous-integration.png)
+![Image alt](/principles.png)
 
-tdd
+Test principles
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supplement-core-languages" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/testing/test-principles" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
 {{< /card >}}
-{{< card header="bdd" >}}
+{{< card >}}
 
-![Image alt](/continuous-integration.png)
+![Image alt](/framework.png)
 
-bdd
+Test frameworks
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supplement-core-languages" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/testing/test-frameworks" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
 {{< /card >}}
-{{< card header="test pyramid" >}}
+{{< card >}}
 
-![Image alt](/continuous-integration.png)
+![Image alt](/tools.png)
 
-test pyramid comp unit
+Testing tools
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supplement-core-languages" >}}">
-Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
-</a>
-
-{{< /card >}}
-{{< /cardpane >}}
-
-{{< cardpane >}}
-{{< card header="mocking" >}}
-
-![Image alt](/continuous-integration.png)
-
-mocking
-
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supplement-core-languages" >}}">
-Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
-</a>
-
-{{< /card >}}
-{{< card header="e2e" >}}
-
-![Image alt](/continuous-integration.png)
-
-e2e
-
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supplement-core-languages" >}}">
-Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
-</a>
-
-{{< /card >}}
-{{< card header="code coverage" >}}
-
-![Image alt](/continuous-integration.png)
-
-code coverage (tools - sonarcube)
-
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supplement-core-languages" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/testing/testing-tools" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
