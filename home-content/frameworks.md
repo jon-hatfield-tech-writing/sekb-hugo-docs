@@ -1,75 +1,39 @@
 {{% blocks/lead color="gray" %}}
-frameworks
+Apply frameworks
 {.h1 .text-center}
 {{% /blocks/lead %}}
 
 {{% blocks/section color="dark" type="row" %}}
 {{< cardpane >}}
-{{< card header="core" >}}
+{{< card >}}
 
-![Image alt](/continuous-integration.png)
+![Image alt](/application.png)
 
-core language spring
+Application frameworks
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supplement-core-languages" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/frameworks/application-frameworks" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
 {{< /card >}}
-{{< card header="test" >}}
+{{< card >}}
 
-![Image alt](/continuous-integration.png)
+![Image alt](/database.png)
 
-test frameworks junit mockito (link)
+Database frameworks
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supplement-core-languages" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/frameworks/database-frameworks" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
 {{< /card >}}
-{{< card header="db" >}}
+{{< card >}}
 
-![Image alt](/continuous-integration.png)
+![Image alt](/frontend.png)
 
-db frameworks hibernate
+Frontend frameworks
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supplement-core-languages" >}}">
-Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
-</a>
-
-{{< /card >}}
-{{< /cardpane >}}
-
-{{< cardpane >}}
-{{< card header="time estimates" >}}
-
-![Image alt](/continuous-integration.png)
-
-time estimates
-
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supplement-core-languages" >}}">
-Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
-</a>
-
-{{< /card >}}
-{{< card header="presentations" >}}
-
-![Image alt](/continuous-integration.png)
-
-presentations
-
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supplement-core-languages" >}}">
-Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
-</a>
-
-{{< /card >}}
-{{< card header="knowledge transfer" >}}
-
-![Image alt](/continuous-integration.png)
-
-knowledge transfer
-
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supplement-core-languages" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/frameworks/frontend-frameworks" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
