@@ -33,4 +33,4 @@ Browse this knowledge base to identify and resolve knowledge gaps.
 <!-- reset colour order -->
 
 {{% readfile "home-content/security.md" %}}
-{{% readfile "home-content/ides.md" %}}
+{{% readfile "home-content/assisting-tools.md" %}}
