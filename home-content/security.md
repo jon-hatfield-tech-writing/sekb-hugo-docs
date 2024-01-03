@@ -1,39 +1,39 @@
 {{% blocks/lead color="orange" %}}
-security
+Security
 {.h1 .text-center}
 {{% /blocks/lead %}}
 
 {{% blocks/section color="dark" type="row" %}}
 {{< cardpane >}}
-{{< card header="api security" >}}
+{{< card >}}
 
-![Image alt](/continuous-integration.png)
+![Image alt](/api-security.png)
 
-api security (roles - authentication/authorisation)
+API security
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supplement-core-languages" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/security/api-security" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
 {{< /card >}}
-{{< card header="data security" >}}
+{{< card >}}
 
-![Image alt](/continuous-integration.png)
+![Image alt](/data-security.png)
 
-data security (rest, transit)
+Data security
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supplement-core-languages" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/security/data-security" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
 {{< /card >}}
-{{< card header="network security" >}}
+{{< card >}}
 
-![Image alt](/continuous-integration.png)
+![Image alt](/network-security.png)
 
-network security
+Network security
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supplement-core-languages" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/security/network-security" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
