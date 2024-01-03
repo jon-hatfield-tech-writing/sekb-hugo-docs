@@ -1,0 +1,28 @@
+---
+title: Cloud deployment
+url: /articles/cloud/cloud-deployment
+tags: [languages, advanced, study]
+---
+
+## Requirements
+
+{{% pageinfo %}}
+
+* Define infrastructure as code.
+* Automate cloud deployment.
+* Orchestrate on the cloud.
+
+{{% /pageinfo %}}
+
+## Examples
+
+* Infrastructure as code:
+  * [Terraform](https://www.terraform.io/)
+* Cloud deployment:
+  * [Google Cloud Deploy](https://cloud.google.com/deploy)
+* Orchestration:
+  * [Amazon EKS](https://aws.amazon.com/eks/)
+
+## See also
+
+[Link here]({{< ref "/delve-into-the-stack" >}} "Link")

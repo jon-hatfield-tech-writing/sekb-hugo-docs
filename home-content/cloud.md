@@ -1,39 +1,39 @@
 {{% blocks/lead color="pink" %}}
-cloud services
+Cloud services
 {.h1 .text-center}
 {{% /blocks/lead %}}
 
 {{% blocks/section color="dark" type="row" %}}
 {{< cardpane >}}
-{{< card header="cloud deploy" >}}
+{{< card >}}
 
-![Image alt](/continuous-integration.png)
+![Image alt](/cloud-deployments.png)
 
-cloud deploy
+Cloud deployment
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supplement-core-languages" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/cloud/cloud-deployment" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
 {{< /card >}}
-{{< card header="cloud dbs" >}}
+{{< card >}}
 
-![Image alt](/continuous-integration.png)
+![Image alt](/cloud-storage.png)
 
-cloud dbs
+Cloud storage
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supplement-core-languages" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/cloud/cloud-storage" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
 {{< /card >}}
-{{< card header="cloud devops" >}}
+{{< card >}}
 
-![Image alt](/continuous-integration.png)
+![Image alt](/management.png)
 
-cloud devops e.g. aws, google
+Cloud management
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supplement-core-languages" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/cloud/cloud-management" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
