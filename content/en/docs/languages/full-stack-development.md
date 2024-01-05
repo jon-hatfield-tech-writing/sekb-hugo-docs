@@ -1,6 +1,6 @@
 ---
-title: Delve into the stack
-url: /articles/polyglot/delve-into-the-stack
+title: Full stack development
+url: /articles/languages/full-stack-development
 tags: [languages, frontend, backend]
 ---
 
@@ -25,4 +25,4 @@ tags: [languages, frontend, backend]
 
 ## See also
 
-[Link here]({{< ref "/delve-into-the-stack" >}} "Link")
+[Link here]({{< ref "/full-stack-development" >}} "Link")

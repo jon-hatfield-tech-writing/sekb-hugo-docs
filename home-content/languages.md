@@ -1,5 +1,5 @@
 {{% blocks/lead color="orange" %}}
-Be a polyglot
+Languages
 {.h1 .text-center}
 {{% /blocks/lead %}}
 
@@ -9,20 +9,20 @@ Be a polyglot
 
 ![Image alt](/stack.png)
 
-Delve into the stack
+Full stack development
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< ref "/docs/polyglot/delve-into-the-stack" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< ref "/docs/languages/full-stack-development" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
 {{< /card >}}
 {{< card >}}
 
-![Image alt](/graduation.png)
+![Image alt](/core.png)
 
-Master core languages
+Core languages
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/master-core-languages" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/languages/core-languages" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
@@ -31,9 +31,9 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 
 ![Image alt](/attach.png)
 
-Supplement core languages
+Supplementary languages
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/polyglot/supplement-core-languages" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/languages/supplementary-languages" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 {{< /card >}}

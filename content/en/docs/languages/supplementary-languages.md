@@ -1,6 +1,6 @@
 ---
-title: Supplement core languages
-url: /articles/polyglot/supplement-core-language
+title: Supplementary languages
+url: /articles/languages/supplementary-languages
 tags: [languages, configuration, administration, presentation]
 ---
 
@@ -25,6 +25,6 @@ tags: [languages, configuration, administration, presentation]
 
 ## See also
 
-[Link here]({{< ref "/delve-into-the-stack" >}} "devops") *Be comfortable with command-line interfaces -> devops*
+[Link here]({{< ref "/full-stack-development" >}} "devops") *Be comfortable with command-line interfaces -> devops*
 Write scripts to automate processes. Linux command line interface.
 see also - frameworks & reciprocate link

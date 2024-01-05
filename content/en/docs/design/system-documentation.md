@@ -25,4 +25,4 @@ tags: [languages, advanced, study]
 
 ## See also
 
-[Link here]({{< ref "/delve-into-the-stack" >}} "Link") api swagger docs
+[Link here]({{< ref "/full-stack-development" >}} "Link") api swagger docs

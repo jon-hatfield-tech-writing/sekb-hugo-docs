@@ -25,4 +25,4 @@ tags: [languages, frontend, backend]
 
 ## See also
 
-[Link here]({{< ref "/delve-into-the-stack" >}} "Link")
+[Link here]({{< ref "/full-stack-development" >}} "Link")

@@ -1,6 +1,6 @@
 ---
-title: Master core languages
-url: /articles/polyglot/master-core-languages
+title: Core languages
+url: /articles/languages/core-languages
 tags: [languages, advanced, study]
 ---
 
@@ -8,7 +8,7 @@ tags: [languages, advanced, study]
 
 {{% pageinfo %}}
 
-* Study at expert level.
+* Study core languages at expert level.
 * Implement advanced concepts where appropriate.
 * Understand language inner workings.
 
@@ -17,7 +17,7 @@ tags: [languages, advanced, study]
 ## Examples
 
 * Expert level study:
-  * [AWS Certified Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-professional)
+  * [Java certification](https://education.oracle.com/oracle-certification-path/pFamily_48)
 * Advanced concepts:
   * [Java reflection](https://www.oracle.com/technical-resources/articles/java/javareflection.html)
 * Language inner workings:
@@ -25,4 +25,4 @@ tags: [languages, advanced, study]
 
 ## See also
 
-[Link here]({{< ref "/delve-into-the-stack" >}} "Link")
+[Link here]({{< ref "/full-stack-development" >}} "Link")
