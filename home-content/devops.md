@@ -1,5 +1,5 @@
 {{% blocks/lead color="blue" %}}
-Streamline deployments
+DevOps
 {.h1 .text-center}
 {{% /blocks/lead %}}
 

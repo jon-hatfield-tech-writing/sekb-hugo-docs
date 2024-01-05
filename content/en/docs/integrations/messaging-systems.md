@@ -1,6 +1,6 @@
 ---
-title: Messaging
-url: /articles/integrations/messaging
+title: Messaging systems
+url: /articles/integrations/messaging-systems
 tags: [languages, configuration, administration, presentation]
 ---
 

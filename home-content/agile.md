@@ -1,5 +1,5 @@
 {{% blocks/lead color="pink" %}}
-Be agile
+Agile
 {.h1 .text-center}
 {{% /blocks/lead %}}
 
@@ -9,9 +9,9 @@ Be agile
 
 ![Image alt](/tools.png)
 
-Tools
+Agile tools
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/agile/tools" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/agile/agile-tools" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
@@ -20,9 +20,9 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 
 ![Image alt](/process.png)
 
-Processes
+Agile processes
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/agile/processes" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/agile/agile-processes" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
@@ -31,9 +31,9 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 
 ![Image alt](/meeting.png)
 
-Meetings
+Agile meetings
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/agile/meetings" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/agile/agile-meetings" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 

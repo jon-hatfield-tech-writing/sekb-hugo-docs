@@ -1,5 +1,5 @@
 ---
-title: Leverage APIs
+title: APIs
 url: /articles/apis
 tags: [languages]
 weight: 1

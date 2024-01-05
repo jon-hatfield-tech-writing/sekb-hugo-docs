@@ -11,7 +11,7 @@ Cloud services
 
 Cloud deployment
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/cloud/cloud-deployment" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/cloud-services/cloud-deployment" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
@@ -22,7 +22,7 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 
 Cloud storage
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/cloud/cloud-storage" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/cloud-services/cloud-storage" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
@@ -33,7 +33,7 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 
 Cloud management
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/cloud/cloud-management" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/cloud-services/cloud-management" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 

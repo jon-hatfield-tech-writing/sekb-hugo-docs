@@ -1,5 +1,5 @@
 {{% blocks/lead color="teal" %}}
-Design elegantly
+Design
 {.h1 .text-center}
 {{% /blocks/lead %}}
 

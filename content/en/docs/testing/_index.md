@@ -1,5 +1,5 @@
 ---
-title: Test thoroughly
+title: Testing
 url: /articles/testing
 tags: [languages]
 weight: 1

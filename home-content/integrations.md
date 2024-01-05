@@ -1,5 +1,5 @@
 {{% blocks/lead color="cyan" %}}
-Integrate components
+Integrations
 {.h1 .text-center}
 {{% /blocks/lead %}}
 
@@ -9,9 +9,9 @@ Integrate components
 
 ![Image alt](/message.png)
 
-Messaging
+Messaging systems
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/integrations/messaging" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/integrations/messaging-systems" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 

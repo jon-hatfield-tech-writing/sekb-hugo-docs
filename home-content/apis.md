@@ -1,5 +1,5 @@
 {{% blocks/lead color="orange" %}}
-Leverage APIs
+APIs
 {.h1 .text-center}
 {{% /blocks/lead %}}
 
@@ -20,7 +20,7 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 
 ![Image alt](/implementation.png)
 
-Implementation
+API implementation
 
 <a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/apis/api-implementation" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>

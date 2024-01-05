@@ -1,6 +1,6 @@
 ---
 title: Cloud management
-url: /articles/cloud/cloud-management
+url: /articles/cloud-services/cloud-management
 tags: [languages, frontend, backend]
 ---
 

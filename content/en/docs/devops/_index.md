@@ -1,5 +1,5 @@
 ---
-title: Streamline deployments
+title: DevOps
 url: /articles/devops
 tags: [languages]
 weight: 1

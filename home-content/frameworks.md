@@ -1,5 +1,5 @@
 {{% blocks/lead color="gray" %}}
-Apply frameworks
+Frameworks
 {.h1 .text-center}
 {{% /blocks/lead %}}
 

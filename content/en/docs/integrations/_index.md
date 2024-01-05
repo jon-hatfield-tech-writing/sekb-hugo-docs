@@ -1,10 +1,10 @@
 ---
-title: Integrate components
+title: Integrations
 url: /articles/integrations
 tags: [languages]
 weight: 1
 ---
 
 {{% pageinfo %}}
-Internal and external integrations are omnipresent.
+Integrate internal components and external systems.
 {{% /pageinfo %}}

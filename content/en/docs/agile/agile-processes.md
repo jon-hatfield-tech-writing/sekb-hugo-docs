@@ -1,6 +1,6 @@
 ---
-title: Processes
-url: /articles/agile/processes
+title: Agile processes
+url: /articles/agile/agile-processes
 tags: [languages, advanced, study]
 ---
 

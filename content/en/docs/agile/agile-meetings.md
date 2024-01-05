@@ -1,6 +1,6 @@
 ---
-title: Meetings
-url: /articles/agile/meetings
+title: Agile meetings
+url: /articles/agile/agile-meetings
 tags: [languages, frontend, backend]
 ---
 

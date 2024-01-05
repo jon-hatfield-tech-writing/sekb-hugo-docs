@@ -1,6 +1,6 @@
 ---
 title: Cloud services
-url: /articles/cloud
+url: /articles/cloud-services
 tags: [languages]
 weight: 1
 ---

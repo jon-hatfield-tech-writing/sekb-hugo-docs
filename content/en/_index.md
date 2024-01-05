@@ -27,7 +27,7 @@ Browse this knowledge base to identify and resolve knowledge gaps.
 {{% readfile "home-content/design.md" %}}
 {{% readfile "home-content/testing.md" %}}
 {{% readfile "home-content/frameworks.md" %}}
-{{% readfile "home-content/cloud.md" %}}
+{{% readfile "home-content/cloud-services.md" %}}
 {{% readfile "home-content/visualisation.md" %}}
 
 <!-- reset colour order -->

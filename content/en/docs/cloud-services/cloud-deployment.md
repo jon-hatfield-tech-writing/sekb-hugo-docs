@@ -1,6 +1,6 @@
 ---
 title: Cloud deployment
-url: /articles/cloud/cloud-deployment
+url: /articles/cloud-services/cloud-deployment
 tags: [languages, advanced, study]
 ---
 

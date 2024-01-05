@@ -1,5 +1,5 @@
 {{% blocks/lead color="teal" %}}
-Manipulate data
+Data
 {.h1 .text-center}
 {{% /blocks/lead %}}
 

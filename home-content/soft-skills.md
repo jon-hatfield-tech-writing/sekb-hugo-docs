@@ -1,5 +1,5 @@
 {{% blocks/lead color="gray" %}}
-Develop soft skills
+Soft skills
 {.h1 .text-center}
 {{% /blocks/lead %}}
 

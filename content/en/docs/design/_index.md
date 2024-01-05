@@ -1,5 +1,5 @@
 ---
-title: Design elegantly
+title: Design
 url: /articles/design
 tags: [languages]
 weight: 1

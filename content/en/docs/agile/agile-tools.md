@@ -1,6 +1,6 @@
 ---
-title: Tools
-url: /articles/agile/tools
+title: Agile tools
+url: /articles/agile/agile-tools
 tags: [languages, configuration, administration, presentation]
 ---
 
