@@ -7,11 +7,11 @@ Visualisation
 {{< cardpane >}}
 {{< card >}}
 
-![Image alt](/reporting.png)
+![Image alt](/logging.png)
 
-Reporting
+Logging
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/visualisation/reporting" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/visualisation/logging" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
@@ -29,11 +29,11 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 {{< /card >}}
 {{< card >}}
 
-![Image alt](/logging.png)
+![Image alt](/reporting.png)
 
-Logging
+Reporting
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/visualisation/logging" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/visualisation/reporting" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 

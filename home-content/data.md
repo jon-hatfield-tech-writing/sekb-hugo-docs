@@ -7,11 +7,11 @@ Data
 {{< cardpane >}}
 {{< card >}}
 
-![Image alt](/sql.png)
+![Image alt](/graph-db.png)
 
-SQL
+Graph Databases
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/data/sql" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/data/graph-databases" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
@@ -29,11 +29,11 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 {{< /card >}}
 {{< card >}}
 
-![Image alt](/graph-db.png)
+![Image alt](/sql.png)
 
-Graph Databases
+SQL
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/data/graph-databases" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/data/sql" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 

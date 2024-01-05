@@ -7,22 +7,22 @@ Languages
 {{< cardpane >}}
 {{< card >}}
 
-![Image alt](/stack.png)
+![Image alt](/core.png)
 
-Full stack development
+Core languages
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< ref "/docs/languages/full-stack-development" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/languages/core-languages" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
 {{< /card >}}
 {{< card >}}
 
-![Image alt](/core.png)
+![Image alt](/stack.png)
 
-Core languages
+Full stack development
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/languages/core-languages" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< ref "/docs/languages/full-stack-development" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 

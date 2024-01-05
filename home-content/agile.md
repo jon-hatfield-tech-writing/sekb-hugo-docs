@@ -7,11 +7,11 @@ Agile
 {{< cardpane >}}
 {{< card >}}
 
-![Image alt](/tools.png)
+![Image alt](/meeting.png)
 
-Agile tools
+Agile meetings
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/agile/agile-tools" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/agile/agile-meetings" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
@@ -29,11 +29,11 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 {{< /card >}}
 {{< card >}}
 
-![Image alt](/meeting.png)
+![Image alt](/tools.png)
 
-Agile meetings
+Agile tools
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/agile/agile-meetings" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/agile/agile-tools" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 

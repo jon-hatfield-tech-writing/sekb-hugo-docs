@@ -7,17 +7,6 @@ Integrations
 {{< cardpane >}}
 {{< card >}}
 
-![Image alt](/message.png)
-
-Messaging systems
-
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/integrations/messaging-systems" >}}">
-Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
-</a>
-
-{{< /card >}}
-{{< card >}}
-
 ![Image alt](/http.png)
 
 API integrations
@@ -34,6 +23,17 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 Data integrations
 
 <a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/integrations/data-integrations" >}}">
+Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
+</a>
+
+{{< /card >}}
+{{< card >}}
+
+![Image alt](/message.png)
+
+Messaging systems
+
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/integrations/messaging-systems" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 

@@ -7,22 +7,22 @@ Testing
 {{< cardpane >}}
 {{< card >}}
 
-![Image alt](/principles.png)
+![Image alt](/framework.png)
 
-Test principles
+Test frameworks
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/testing/test-principles" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/testing/test-frameworks" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
 {{< /card >}}
 {{< card >}}
 
-![Image alt](/framework.png)
+![Image alt](/principles.png)
 
-Test frameworks
+Test principles
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/testing/test-frameworks" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/testing/test-principles" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 

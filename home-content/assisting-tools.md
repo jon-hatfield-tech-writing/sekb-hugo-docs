@@ -7,22 +7,22 @@ Assisting tools
 {{< cardpane >}}
 {{< card >}}
 
-![Image alt](/ides.png)
+![Image alt](/communication-software.png)
 
-IDEs
+Communication software
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/assisting-tools/ides" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/assisting-tools/communication-software" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
 {{< /card >}}
 {{< card >}}
 
-![Image alt](/communication-software.png)
+![Image alt](/ides.png)
 
-Communication software
+IDEs
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/assisting-tools/communication-software" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/assisting-tools/ides" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 

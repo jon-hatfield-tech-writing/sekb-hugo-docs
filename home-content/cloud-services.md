@@ -18,22 +18,22 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 {{< /card >}}
 {{< card >}}
 
-![Image alt](/cloud-storage.png)
+![Image alt](/management.png)
 
-Cloud storage
+Cloud management
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/cloud-services/cloud-storage" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/cloud-services/cloud-management" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
 {{< /card >}}
 {{< card >}}
 
-![Image alt](/management.png)
+![Image alt](/cloud-storage.png)
 
-Cloud management
+Cloud storage
 
-<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/cloud-services/cloud-management" >}}">
+<a class="btn btn-lg btn-primary mb-4" href="{{< relref "/docs/cloud-services/cloud-storage" >}}">
 Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
