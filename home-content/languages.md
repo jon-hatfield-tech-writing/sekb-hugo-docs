@@ -1,4 +1,4 @@
-{{% blocks/lead color="orange" %}}
+{{% blocks/lead color="gray" %}}
 Languages
 {.h1 .text-center}
 {{% /blocks/lead %}}

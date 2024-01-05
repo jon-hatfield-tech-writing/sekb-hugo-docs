@@ -1,4 +1,4 @@
-{{% blocks/lead color="cyan" %}}
+{{% blocks/lead color="teal" %}}
 Visualisation
 {.h1 .text-center}
 {{% /blocks/lead %}}

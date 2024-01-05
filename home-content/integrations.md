@@ -1,4 +1,4 @@
-{{% blocks/lead color="cyan" %}}
+{{% blocks/lead color="blue" %}}
 Integrations
 {.h1 .text-center}
 {{% /blocks/lead %}}

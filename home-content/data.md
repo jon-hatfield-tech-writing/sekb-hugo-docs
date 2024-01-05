@@ -1,4 +1,4 @@
-{{% blocks/lead color="teal" %}}
+{{% blocks/lead color="pink" %}}
 Data
 {.h1 .text-center}
 {{% /blocks/lead %}}

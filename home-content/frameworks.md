@@ -1,4 +1,4 @@
-{{% blocks/lead color="gray" %}}
+{{% blocks/lead color="teal" %}}
 Frameworks
 {.h1 .text-center}
 {{% /blocks/lead %}}

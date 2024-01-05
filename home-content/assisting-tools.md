@@ -1,4 +1,4 @@
-{{% blocks/lead color="teal" %}}
+{{% blocks/lead color="blue" %}}
 Assisting tools
 {.h1 .text-center}
 {{% /blocks/lead %}}

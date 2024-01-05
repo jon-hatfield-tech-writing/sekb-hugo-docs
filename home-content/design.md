@@ -1,4 +1,4 @@
-{{% blocks/lead color="teal" %}}
+{{% blocks/lead color="cyan" %}}
 Design
 {.h1 .text-center}
 {{% /blocks/lead %}}

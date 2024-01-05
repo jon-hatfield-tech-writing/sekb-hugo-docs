@@ -1,4 +1,4 @@
-{{% blocks/lead color="blue" %}}
+{{% blocks/lead color="orange" %}}
 DevOps
 {.h1 .text-center}
 {{% /blocks/lead %}}

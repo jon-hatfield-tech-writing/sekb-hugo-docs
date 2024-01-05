@@ -14,23 +14,23 @@ Browse this knowledge base to identify and resolve knowledge gaps.
 
 {{% /blocks/lead %}}
 
-{{% readfile "home-content/languages.md" %}}
-{{% readfile "home-content/data.md" %}}
-{{% readfile "home-content/devops.md" %}}
-{{% readfile "home-content/soft-skills.md" %}}
 {{% readfile "home-content/agile.md" %}}
-{{% readfile "home-content/integrations.md" %}}
-
-<!-- reset colour order -->
-
 {{% readfile "home-content/apis.md" %}}
-{{% readfile "home-content/design.md" %}}
-{{% readfile "home-content/testing.md" %}}
-{{% readfile "home-content/frameworks.md" %}}
+{{% readfile "home-content/assisting-tools.md" %}}
 {{% readfile "home-content/cloud-services.md" %}}
-{{% readfile "home-content/visualisation.md" %}}
+{{% readfile "home-content/data.md" %}}
+{{% readfile "home-content/design.md" %}}
 
 <!-- reset colour order -->
 
+{{% readfile "home-content/devops.md" %}}
+{{% readfile "home-content/frameworks.md" %}}
+{{% readfile "home-content/integrations.md" %}}
+{{% readfile "home-content/languages.md" %}}
 {{% readfile "home-content/security.md" %}}
-{{% readfile "home-content/assisting-tools.md" %}}
+{{% readfile "home-content/soft-skills.md" %}}
+
+<!-- reset colour order -->
+
+{{% readfile "home-content/testing.md" %}}
+{{% readfile "home-content/visualisation.md" %}}

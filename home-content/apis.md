@@ -1,4 +1,4 @@
-{{% blocks/lead color="orange" %}}
+{{% blocks/lead color="teal" %}}
 APIs
 {.h1 .text-center}
 {{% /blocks/lead %}}

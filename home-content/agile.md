@@ -1,4 +1,4 @@
-{{% blocks/lead color="pink" %}}
+{{% blocks/lead color="orange" %}}
 Agile
 {.h1 .text-center}
 {{% /blocks/lead %}}

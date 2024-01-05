@@ -1,4 +1,4 @@
-{{% blocks/lead color="gray" %}}
+{{% blocks/lead color="cyan" %}}
 Soft skills
 {.h1 .text-center}
 {{% /blocks/lead %}}
