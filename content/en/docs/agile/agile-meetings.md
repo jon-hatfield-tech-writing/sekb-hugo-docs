@@ -19,10 +19,10 @@ tags: [languages, frontend, backend]
 * Planning:
   * [Jira](https://www.atlassian.com/agile/scrum/sprint-planning)
 * Retrospectives:
-  * [Trello](https://trello.com/l)
+  * [Trello](https://trello.com)
 * Refinement:
   * [Asana](https://asana.com/resources/backlog-refinement)
 
 ## See also
 
-[Link here]({{< ref "/full-stack-development" >}} "Link")
+{{% target-title full-stack-development %}}
