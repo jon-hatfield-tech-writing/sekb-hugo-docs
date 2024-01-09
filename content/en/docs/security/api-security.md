@@ -25,4 +25,6 @@ tags: [languages, frontend, backend]
 
 ## See also
 
-[Link here]({{< ref "/full-stack-development" >}} "Link")
+{{% target-title api-design %}}
+{{% target-title api-implementation %}}
+{{% target-title api-integrations %}}

@@ -25,5 +25,5 @@ tags: [languages, configuration, administration, presentation]
 
 ## See also
 
-[Link here]({{< ref "/full-stack-development" >}} "devops") *Be comfortable with command-line interfaces -> devops*
-Write scripts to automate processes. Linux command line interface.
+{{% target-title communication-software %}}
+{{% target-title project-management-software %}}

@@ -1,8 +1,6 @@
 ---
 title: Data
 url: /articles/data
-tags: [languages]
-weight: 1
 ---
 
 {{% pageinfo %}}

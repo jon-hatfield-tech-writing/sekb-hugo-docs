@@ -25,4 +25,4 @@ tags: [languages, advanced, study]
 
 ## See also
 
-[Link here]({{< ref "/full-stack-development" >}} "Link")
+{{% target-title design-patterns %}}

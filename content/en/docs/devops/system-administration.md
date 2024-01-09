@@ -25,5 +25,4 @@ tags: [languages, configuration, administration, presentation]
 
 ## See also
 
-[Link here]({{< ref "/cicd" >}} "devops") *Be comfortable with command-line interfaces -> devops*
-Write scripts to automate processes. Linux command line interface.
+{{% target-title ides %}}

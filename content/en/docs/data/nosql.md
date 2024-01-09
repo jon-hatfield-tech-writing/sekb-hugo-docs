@@ -25,4 +25,7 @@ tags: [languages, advanced, study]
 
 ## See also
 
-[Link here]({{< ref "/full-stack-development" >}} "Link")
+{{% target-title cloud-storage %}}
+{{% target-title data-integrations %}}
+{{% target-title data-security %}}
+{{% target-title database-frameworks %}}

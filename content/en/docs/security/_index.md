@@ -1,8 +1,6 @@
 ---
 title: Security
 url: /articles/security
-tags: [languages]
-weight: 1
 ---
 
 {{% pageinfo %}}

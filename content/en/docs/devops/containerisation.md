@@ -25,4 +25,5 @@ tags: [languages, advanced, study]
 
 ## See also
 
-[Link here]({{< ref "/cicd" >}} "Link")
+{{% target-title cloud-deployment %}}
+{{% target-title cloud-management %}}

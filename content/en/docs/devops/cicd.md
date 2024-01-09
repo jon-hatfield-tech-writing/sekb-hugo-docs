@@ -25,4 +25,5 @@ tags: [languages, frontend, backend]
 
 ## See also
 
-[Link here]({{< ref "/cicd" >}} "Link")
+{{% target-title cloud-deployment %}}
+{{% target-title cloud-management %}}

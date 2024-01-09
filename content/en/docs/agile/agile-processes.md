@@ -25,4 +25,5 @@ tags: [languages, advanced, study]
 
 ## See also
 
-[Link here]({{< ref "/full-stack-development" >}} "Link")
+{{% target-title management %}}
+{{% target-title tech-support %}}

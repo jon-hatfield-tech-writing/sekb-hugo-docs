@@ -25,4 +25,5 @@ tags: [languages, frontend, backend]
 
 ## See also
 
-[Link here]({{< ref "/full-stack-development" >}} "Link")
+{{% target-title agile-tools %}}
+{{% target-title management %}}

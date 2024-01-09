@@ -25,4 +25,4 @@ tags: [languages, frontend, backend]
 
 ## See also
 
-[Link here]({{< ref "/full-stack-development" >}} "Link") system docs
+{{% target-title system-documentation %}}

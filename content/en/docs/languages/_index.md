@@ -1,8 +1,6 @@
 ---
 title: Languages
 url: /articles/languages
-tags: [languages]
-weight: 1
 ---
 
 {{% pageinfo %}}

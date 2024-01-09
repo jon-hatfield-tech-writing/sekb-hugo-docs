@@ -1,8 +1,6 @@
 ---
 title: Testing
 url: /articles/testing
-tags: [languages]
-weight: 1
 ---
 
 {{% pageinfo %}}

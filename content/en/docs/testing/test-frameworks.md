@@ -25,4 +25,7 @@ tags: [languages, advanced, study]
 
 ## See also
 
-[Link here]({{< ref "/full-stack-development" >}} "Link")
+{{% target-title application-frameworks %}}
+{{% target-title database-frameworks %}}
+{{% target-title frontend-frameworks %}}
+{{% target-title full-stack-development %}}

@@ -1,8 +1,6 @@
 ---
 title: Visualisation
 url: /articles/visualisation
-tags: [languages]
-weight: 1
 ---
 
 {{% pageinfo %}}

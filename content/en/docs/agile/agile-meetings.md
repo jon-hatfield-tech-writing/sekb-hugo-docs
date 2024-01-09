@@ -1,7 +1,7 @@
 ---
 title: Agile meetings
 url: /articles/agile/agile-meetings
-tags: [languages, frontend, backend]
+tags: [communication]
 ---
 
 ## Requirements
@@ -25,4 +25,4 @@ tags: [languages, frontend, backend]
 
 ## See also
 
-{{% target-title full-stack-development %}}
+{{% target-title teamwork %}}

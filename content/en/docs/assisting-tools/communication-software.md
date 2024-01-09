@@ -25,4 +25,6 @@ tags: [languages, advanced, study]
 
 ## See also
 
-[Link here]({{< ref "/full-stack-development" >}} "Link")
+{{% target-title agile-tools %}}
+{{% target-title teamwork %}}
+{{% target-title tech-support %}}
