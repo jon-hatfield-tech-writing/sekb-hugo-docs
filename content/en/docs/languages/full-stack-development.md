@@ -1,7 +1,7 @@
 ---
 title: Full stack development
 url: /articles/languages/full-stack-development
-tags: [languages, frontend, backend]
+tags: [coding, web]
 ---
 
 ## Requirements

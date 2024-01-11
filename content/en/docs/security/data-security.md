@@ -1,7 +1,7 @@
 ---
 title: Data security
 url: /articles/security/data-security
-tags: [languages, configuration, administration, presentation]
+tags: [storage]
 ---
 
 ## Requirements

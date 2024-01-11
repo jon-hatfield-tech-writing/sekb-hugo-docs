@@ -1,7 +1,7 @@
 ---
 title: Teamwork
 url: /articles/soft-skills/teamwork
-tags: [languages, advanced, study]
+tags: [communication]
 ---
 
 ## Requirements

@@ -1,7 +1,7 @@
 ---
 title: Design patterns
 url: /articles/design/design-patterns
-tags: [languages, frontend, backend]
+tags: [principles, patterns]
 ---
 
 ## Requirements

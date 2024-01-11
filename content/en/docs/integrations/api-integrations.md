@@ -1,7 +1,7 @@
 ---
 title: API integrations
 url: /articles/integrations/api-integrations
-tags: [languages, advanced, study]
+tags: [web, patterns]
 ---
 
 ## Requirements

@@ -1,7 +1,7 @@
 ---
 title: IDEs
 url: /articles/assiting-tools/ides
-tags: [languages, configuration, administration, presentation]
+tags: [coding]
 ---
 
 ## Requirements

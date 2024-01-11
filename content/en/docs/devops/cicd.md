@@ -1,7 +1,7 @@
 ---
 title: CI/CD
 url: /articles/devops/cicd
-tags: [languages, frontend, backend]
+tags: [coding, admin, deployment]
 ---
 
 ## Requirements

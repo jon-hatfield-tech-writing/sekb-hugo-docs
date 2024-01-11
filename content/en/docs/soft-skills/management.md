@@ -1,7 +1,7 @@
 ---
 title: Management
 url: /articles/soft-skills/management
-tags: [languages, configuration, administration, presentation]
+tags: [planning, communication, admin]
 ---
 
 ## Requirements

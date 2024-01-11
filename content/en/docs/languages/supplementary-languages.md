@@ -1,7 +1,7 @@
 ---
 title: Supplementary languages
 url: /articles/languages/supplementary-languages
-tags: [languages, configuration, administration, presentation]
+tags: [coding, web]
 ---
 
 ## Requirements

@@ -1,7 +1,7 @@
 ---
 title: Architecture
 url: /articles/design/architecture
-tags: [languages, configuration, administration, presentation]
+tags: [principles, patterns]
 ---
 
 ## Requirements

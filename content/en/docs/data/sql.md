@@ -1,7 +1,7 @@
 ---
 title: SQL
 url: /articles/data/sql
-tags: [languages, frontend, backend]
+tags: [storage, optimisation]
 ---
 
 ## Requirements

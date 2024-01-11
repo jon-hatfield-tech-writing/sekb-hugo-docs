@@ -1,7 +1,7 @@
 ---
 title: Network security
 url: /articles/security/network-security
-tags: [languages, advanced, study]
+tags: [principles]
 ---
 
 ## Requirements

@@ -1,7 +1,7 @@
 ---
 title: Core languages
 url: /articles/languages/core-languages
-tags: [languages, advanced, study]
+tags: [coding, patterns, principles]
 ---
 
 ## Requirements

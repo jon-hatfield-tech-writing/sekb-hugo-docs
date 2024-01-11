@@ -1,7 +1,7 @@
 ---
 title: Test frameworks
 url: /articles/testing/test-frameworks
-tags: [languages, advanced, study]
+tags: [coding, web]
 ---
 
 ## Requirements

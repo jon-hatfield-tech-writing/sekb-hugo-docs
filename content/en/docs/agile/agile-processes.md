@@ -1,7 +1,7 @@
 ---
 title: Agile processes
 url: /articles/agile/agile-processes
-tags: [languages, advanced, study]
+tags: [planning, admin]
 ---
 
 ## Requirements

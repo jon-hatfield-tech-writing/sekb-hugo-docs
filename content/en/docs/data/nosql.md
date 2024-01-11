@@ -1,7 +1,7 @@
 ---
 title: NoSQL
 url: /articles/data/nosql
-tags: [languages, advanced, study]
+tags: [storage, optimisation]
 ---
 
 ## Requirements

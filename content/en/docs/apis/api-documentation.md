@@ -1,7 +1,7 @@
 ---
 title: API documentation
 url: /articles/apis/api-documentation
-tags: [languages, frontend, backend]
+tags: [documentation, convention]
 ---
 
 ## Requirements

@@ -1,7 +1,7 @@
 ---
 title: System documentation
 url: /articles/design/system-documentation
-tags: [languages, advanced, study]
+tags: [documentation]
 ---
 
 ## Requirements

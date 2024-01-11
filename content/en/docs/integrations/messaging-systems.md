@@ -1,7 +1,7 @@
 ---
 title: Messaging systems
 url: /articles/integrations/messaging-systems
-tags: [languages, configuration, administration, presentation]
+tags: [patterns, principles]
 ---
 
 ## Requirements

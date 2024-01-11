@@ -1,7 +1,7 @@
 ---
 title: Agile tools
 url: /articles/agile/agile-tools
-tags: [languages, configuration, administration, presentation]
+tags: [planning, admin]
 ---
 
 ## Requirements

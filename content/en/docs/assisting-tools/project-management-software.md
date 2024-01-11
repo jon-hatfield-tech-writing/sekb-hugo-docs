@@ -1,7 +1,7 @@
 ---
 title: Project management software
 url: /articles/assisting-tools/project-management-software
-tags: [languages, frontend, backend]
+tags: [admin, communication]
 ---
 
 ## Requirements

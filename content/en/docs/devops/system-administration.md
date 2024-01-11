@@ -1,7 +1,7 @@
 ---
 title: System administration
 url: /articles/devops/system-administration
-tags: [languages, configuration, administration, presentation]
+tags: [coding, admin]
 ---
 
 ## Requirements

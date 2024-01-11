@@ -1,7 +1,7 @@
 ---
 title: Test principles
 url: /articles/testing/test-principles
-tags: [languages, configuration, administration, presentation]
+tags: [principles]
 ---
 
 ## Requirements

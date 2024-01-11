@@ -1,7 +1,7 @@
 ---
 title: Database frameworks
 url: /articles/frameworks/database-frameworks
-tags: [languages, frontend, backend]
+tags: [coding, storage, patterns]
 ---
 
 ## Requirements

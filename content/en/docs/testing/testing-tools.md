@@ -1,7 +1,7 @@
 ---
 title: Testing tools
 url: /articles/testing/testing-tools
-tags: [languages, frontend, backend]
+tags: [admin, deployment]
 ---
 
 ## Requirements

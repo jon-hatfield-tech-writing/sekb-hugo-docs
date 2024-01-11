@@ -1,7 +1,7 @@
 ---
 title: Containerisation
 url: /articles/devops/containerisation
-tags: [languages, advanced, study]
+tags: [deployment, admin]
 ---
 
 ## Requirements

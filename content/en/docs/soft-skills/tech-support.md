@@ -1,7 +1,7 @@
 ---
 title: Tech support
 url: /articles/soft-skills/tech-support
-tags: [languages, frontend, backend]
+tags: [communication, admin]
 ---
 
 ## Requirements

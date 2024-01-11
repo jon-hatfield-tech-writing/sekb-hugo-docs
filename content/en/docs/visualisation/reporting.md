@@ -1,7 +1,7 @@
 ---
 title: Reporting
 url: /articles/visualisation/reporting
-tags: [languages, advanced, study]
+tags: [coding, admin]
 ---
 
 ## Requirements

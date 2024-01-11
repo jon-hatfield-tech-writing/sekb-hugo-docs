@@ -1,7 +1,7 @@
 ---
 title: Data integrations
 url: /articles/integrations/data-integrations
-tags: [languages, frontend, backend]
+tags: [storage, patterns]
 ---
 
 ## Requirements

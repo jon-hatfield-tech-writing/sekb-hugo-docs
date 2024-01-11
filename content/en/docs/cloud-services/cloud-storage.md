@@ -1,7 +1,7 @@
 ---
 title: Cloud storage
 url: /articles/cloud-services/cloud-storage
-tags: [languages, configuration, administration, presentation]
+tags: [storage, web]
 ---
 
 ## Requirements

@@ -1,7 +1,7 @@
 ---
 title: API design
 url: /articles/apis/api-design
-tags: [languages, configuration, administration, presentation]
+tags: [web, convention]
 ---
 
 ## Requirements

@@ -1,7 +1,7 @@
 ---
 title: Communication software
 url: /articles/assisting-tools/communication-software
-tags: [languages, advanced, study]
+tags: [communication]
 ---
 
 ## Requirements

@@ -1,7 +1,7 @@
 ---
 title: Cloud management
 url: /articles/cloud-services/cloud-management
-tags: [languages, frontend, backend]
+tags: [admin, web]
 ---
 
 ## Requirements
