@@ -1,7 +1,7 @@
 ---
 title: Containerisation
 url: /articles/devops/containerisation
-tags: [deployment, admin]
+tags: [configuration]
 ---
 
 ## Requirements

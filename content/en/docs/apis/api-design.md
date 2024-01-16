@@ -1,7 +1,7 @@
 ---
 title: API design
 url: /articles/apis/api-design
-tags: [web, convention]
+tags: [web]
 ---
 
 ## Requirements

@@ -1,7 +1,7 @@
 ---
 title: Logging
 url: /articles/visualisation/logging
-tags: [admin, storage]
+tags: [storage, configuration]
 ---
 
 ## Requirements

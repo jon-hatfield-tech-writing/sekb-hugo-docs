@@ -8,7 +8,7 @@ tags: [communication, admin]
 
 {{% pageinfo %}}
 
-* Communicate with customers. email support, telephone support, in-person support (eg sweden)
+* Communicate with customers.
 * Log incidents.
 * Undergo training.
 

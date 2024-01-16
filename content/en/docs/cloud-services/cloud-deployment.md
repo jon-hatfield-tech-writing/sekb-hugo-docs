@@ -1,7 +1,7 @@
 ---
 title: Cloud deployment
 url: /articles/cloud-services/cloud-deployment
-tags: [coding, admin, web]
+tags: [coding, configuration, web]
 ---
 
 ## Requirements

@@ -1,7 +1,7 @@
 ---
 title: Testing tools
 url: /articles/testing/testing-tools
-tags: [admin, deployment]
+tags: [configuration]
 ---
 
 ## Requirements

@@ -1,7 +1,7 @@
 ---
 title: API integrations
 url: /articles/integrations/api-integrations
-tags: [web, patterns]
+tags: [web]
 ---
 
 ## Requirements

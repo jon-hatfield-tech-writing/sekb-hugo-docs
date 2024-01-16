@@ -1,7 +1,7 @@
 ---
 title: CI/CD
 url: /articles/devops/cicd
-tags: [coding, admin, deployment]
+tags: [coding, configuration]
 ---
 
 ## Requirements

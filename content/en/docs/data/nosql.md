@@ -1,7 +1,7 @@
 ---
 title: NoSQL
 url: /articles/data/nosql
-tags: [storage, optimisation]
+tags: [storage]
 ---
 
 ## Requirements

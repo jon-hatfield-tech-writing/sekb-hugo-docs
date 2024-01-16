@@ -1,7 +1,7 @@
 ---
 title: Application frameworks
 url: /articles/frameworks/application-frameworks
-tags: [coding, principles, patterns, web]
+tags: [coding, principles, web]
 ---
 
 ## Requirements

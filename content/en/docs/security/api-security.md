@@ -1,7 +1,7 @@
 ---
 title: API security
 url: /articles/security/api-security
-tags: [principles, web]
+tags: [web]
 ---
 
 ## Requirements

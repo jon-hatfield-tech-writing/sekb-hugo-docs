@@ -1,7 +1,7 @@
 ---
 title: Agile meetings
 url: /articles/agile/agile-meetings
-tags: [planning, admin]
+tags: [planning, admin, communication]
 ---
 
 ## Requirements

@@ -1,7 +1,7 @@
 ---
 title: Graph databases
 url: /articles/data/graph-databases
-tags: [storage, optimisation]
+tags: [storage]
 ---
 
 ## Requirements

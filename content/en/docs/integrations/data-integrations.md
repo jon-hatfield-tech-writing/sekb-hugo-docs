@@ -1,7 +1,7 @@
 ---
 title: Data integrations
 url: /articles/integrations/data-integrations
-tags: [storage, patterns]
+tags: [storage]
 ---
 
 ## Requirements

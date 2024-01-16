@@ -1,7 +1,7 @@
 ---
 title: SQL
 url: /articles/data/sql
-tags: [storage, optimisation]
+tags: [storage]
 ---
 
 ## Requirements

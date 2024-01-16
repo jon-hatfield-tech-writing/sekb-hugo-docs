@@ -1,7 +1,7 @@
 ---
 title: Architecture
 url: /articles/design/architecture
-tags: [principles, patterns]
+tags: [principles]
 ---
 
 ## Requirements

@@ -1,7 +1,7 @@
 ---
 title: API implementation
 url: /articles/apis/api-implementation
-tags: [web]
+tags: [web, coding]
 ---
 
 ## Requirements

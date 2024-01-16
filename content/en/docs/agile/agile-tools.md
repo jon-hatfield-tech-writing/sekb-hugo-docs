@@ -1,7 +1,7 @@
 ---
 title: Agile tools
 url: /articles/agile/agile-tools
-tags: [planning, admin]
+tags: [planning, admin, communication, documentation]
 ---
 
 ## Requirements

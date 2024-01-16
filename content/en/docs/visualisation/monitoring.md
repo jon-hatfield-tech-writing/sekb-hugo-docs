@@ -1,7 +1,7 @@
 ---
 title: Monitoring
 url: /articles/visualisation/monitoring
-tags: [admin]
+tags: [configuration]
 ---
 
 ## Requirements

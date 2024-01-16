@@ -1,7 +1,7 @@
 ---
 title: Frontend frameworks
 url: /articles/frameworks/frontend-frameworks
-tags: [coding, patterns, web]
+tags: [coding, web]
 ---
 
 ## Requirements
