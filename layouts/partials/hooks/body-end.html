@@ -1,6 +1,9 @@
 <script>
-   $(document).ready(function () {
-      document.getElementsByClassName('td-sidebar-nav')[0].scrollTop =
-            document.getElementsByClassName('td-sidebar-nav-active-item')[0].offsetTop - 140;
-   });
+  $(document).ready(function () {
+    var navElements = document.getElementsByClassName('td-sidebar-nav');
+    if(navElements.length == 0) {
+      return;
+    }
+    navElements[0].scrollTop = document.getElementsByClassName('td-sidebar-nav-active-item')[0].offsetTop - 300;
+  });
 </script>
