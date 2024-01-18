@@ -7,7 +7,7 @@ Agile
 {{< cardpane >}}
 {{< card >}}
 
-![Image alt](/meeting.png)
+![Meeting icon](/meeting.png)
 
 Agile meetings
 
@@ -18,7 +18,7 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 {{< /card >}}
 {{< card >}}
 
-![Image alt](/process.png)
+![Process icon](/process.png)
 
 Agile processes
 
@@ -29,7 +29,7 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 {{< /card >}}
 {{< card >}}
 
-![Image alt](/tools.png)
+![Tools icon](/tools.png)
 
 Agile tools
 

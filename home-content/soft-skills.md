@@ -7,7 +7,7 @@ Soft skills
 {{< cardpane >}}
 {{< card >}}
 
-![Image alt](/management.png)
+![Management icon](/management.png)
 
 Management
 
@@ -18,7 +18,7 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 {{< /card >}}
 {{< card >}}
 
-![Image alt](/teamwork.png)
+![Teamwork icon](/teamwork.png)
 
 Teamwork
 
@@ -29,7 +29,7 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 {{< /card >}}
 {{< card >}}
 
-![Image alt](/tech-support.png)
+![Tech support icon](/tech-support.png)
 
 Tech support
 

@@ -7,7 +7,7 @@ Visualisation
 {{< cardpane >}}
 {{< card >}}
 
-![Image alt](/logging.png)
+![Logging icon](/logging.png)
 
 Logging
 
@@ -18,7 +18,7 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 {{< /card >}}
 {{< card >}}
 
-![Image alt](/monitoring.png)
+![Monitoring icon](/monitoring.png)
 
 Monitoring
 
@@ -29,7 +29,7 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 {{< /card >}}
 {{< card >}}
 
-![Image alt](/reporting.png)
+![Reporting icon](/reporting.png)
 
 Reporting
 

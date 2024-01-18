@@ -7,7 +7,7 @@ APIs
 {{< cardpane >}}
 {{< card >}}
 
-![Image alt](/crud.png)
+![CRUD icon](/crud.png)
 
 API design
 
@@ -18,7 +18,7 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 {{< /card >}}
 {{< card >}}
 
-![Image alt](/docs.png)
+![Documentation icon](/docs.png)
 
 API documentation
 
@@ -29,7 +29,7 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 {{< /card >}}
 {{< card >}}
 
-![Image alt](/implementation.png)
+![Implementation icon](/implementation.png)
 
 API implementation
 

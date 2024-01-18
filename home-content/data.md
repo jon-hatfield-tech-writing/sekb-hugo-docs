@@ -7,7 +7,7 @@ Data
 {{< cardpane >}}
 {{< card >}}
 
-![Image alt](/graph-db.png)
+![Graph database icon](/graph-db.png)
 
 Graph Databases
 
@@ -18,7 +18,7 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 {{< /card >}}
 {{< card >}}
 
-![Image alt](/nosql.png)
+![NoSQL icon](/nosql.png)
 
 NoSQL
 
@@ -29,7 +29,7 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 {{< /card >}}
 {{< card >}}
 
-![Image alt](/sql.png)
+![SQL icon](/sql.png)
 
 SQL
 

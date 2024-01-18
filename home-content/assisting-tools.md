@@ -7,7 +7,7 @@ Assisting tools
 {{< cardpane >}}
 {{< card >}}
 
-![Image alt](/communication-software.png)
+![Communication icon](/communication-software.png)
 
 Communication software
 
@@ -18,7 +18,7 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 {{< /card >}}
 {{< card >}}
 
-![Image alt](/ides.png)
+![IDEs icon](/ides.png)
 
 IDEs
 
@@ -29,7 +29,7 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 {{< /card >}}
 {{< card >}}
 
-![Image alt](/management.png)
+![Management icon](/management.png)
 
 Project management software
 
