@@ -34,3 +34,9 @@ Browse this knowledge base to identify and resolve knowledge gaps.
 
 {{% readfile "home-content/testing.md" %}}
 {{% readfile "home-content/visualisation.md" %}}
+
+{{% blocks/section color="dark" type="row pre-footer" %}}
+Background photo by [Elisa Calvet B.](https://unsplash.com/@elisa_cb) on [Unsplash](https://unsplash.com/photos/white-book-on-brown-wooden-table-S3nUOqDmUvc)
+
+Icons by [Icons8](https://icons8.com/)
+{{% /blocks/section %}}

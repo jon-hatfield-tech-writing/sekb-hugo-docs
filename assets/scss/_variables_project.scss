@@ -2,8 +2,6 @@
 
 Add styles or override variables from the theme here.
 
-
-
 */
 .td-card-group, .card-group, .td-card-group.card-group {
     font-weight: bold;
@@ -22,6 +20,10 @@ Add styles or override variables from the theme here.
 
 .card-header {
     color: #6c757d !important;
+}
+
+.pre-footer {
+    text-align: center;
 }
 
 .breadcrumb ol {
