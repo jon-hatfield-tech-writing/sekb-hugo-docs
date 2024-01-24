@@ -1,0 +1,208 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SEKB – Security</title>
+    <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/security/</link>
+    <description>Recent content in Security on SEKB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/security/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API security</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/security/api-security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/security/api-security/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Authenticate users.&lt;/li&gt;
+&lt;li&gt;Authorise users.&lt;/li&gt;
+&lt;li&gt;Protect externally facing APIs.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Authentication:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.authlib.org/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Authlib
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Authorisation:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.spring.io/spring-security/reference/servlet/authorization/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Spring Security
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;API access:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://konghq.com/products/kong-gateway&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Kong API gateway
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/apis/api-design/&#34; title=&#34;API design&#34;&gt;
+    API design
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/apis/api-implementation/&#34; title=&#34;API implementation&#34;&gt;
+    API implementation
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/api-integrations/&#34; title=&#34;API integrations&#34;&gt;
+    API integrations
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Data security</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/security/data-security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/security/data-security/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Encrypt passwords.&lt;/li&gt;
+&lt;li&gt;Store credentials safely.&lt;/li&gt;
+&lt;li&gt;Restrict all access.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Encryption:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/MD5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+MD5
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Credential storage:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.vaultproject.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Vault
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Restrict access:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.mysql.com/doc/refman/8.0/en/roles.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+MySQL roles
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/data-integrations/&#34; title=&#34;Data integrations&#34;&gt;
+    Data integrations
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/graph-databases/&#34; title=&#34;Graph databases&#34;&gt;
+    Graph databases
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/nosql/&#34; title=&#34;NoSQL&#34;&gt;
+    NoSQL
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/sql/&#34; title=&#34;SQL&#34;&gt;
+    SQL
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Network security</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/security/network-security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/security/network-security/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Secure remote access.&lt;/li&gt;
+&lt;li&gt;Implement packet capture.&lt;/li&gt;
+&lt;li&gt;Protect resources with firewalls.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Remote access:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://openvpn.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+OpenVPN
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Packet capture:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/vpc/docs/packet-mirroring&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Google Packet Mirroring
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Firewalls:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/security/products/firewall&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Google Cloud Firewall
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-management/&#34; title=&#34;Cloud management&#34;&gt;
+    Cloud management
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

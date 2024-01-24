@@ -1,0 +1,548 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SEKB – storage</title>
+    <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/tags/storage/</link>
+    <description>Recent content in storage on SEKB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/tags/storage/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Cloud storage</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/cloud-services/cloud-storage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/cloud-services/cloud-storage/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Store unstructured data.&lt;/li&gt;
+&lt;li&gt;Store relational data.&lt;/li&gt;
+&lt;li&gt;Store documents.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Unstructured data:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/s3/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Amazon S3
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Relational data:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/sql/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Google Cloud SQL
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Documents:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/dynamodb/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Amazon DynamoDB
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/graph-databases/&#34; title=&#34;Graph databases&#34;&gt;
+    Graph databases
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/nosql/&#34; title=&#34;NoSQL&#34;&gt;
+    NoSQL
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/sql/&#34; title=&#34;SQL&#34;&gt;
+    SQL
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Data integrations</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/integrations/data-integrations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/integrations/data-integrations/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Relocate reporting data to a dedicated database.&lt;/li&gt;
+&lt;li&gt;Load data from other databases.&lt;/li&gt;
+&lt;li&gt;Replicate data to a performant read-only database.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Relocate reporting data:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.informatica.com/gb/resources/articles/what-is-etl.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Informatica ETL
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Load data:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.mysql.com/doc/refman/8.0/en/mysqlimport.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+mysqlimport
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Replication:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://mariadb.com/kb/en/standard-replication/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+MariaDB replication
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/graph-databases/&#34; title=&#34;Graph databases&#34;&gt;
+    Graph databases
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/nosql/&#34; title=&#34;NoSQL&#34;&gt;
+    NoSQL
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/sql/&#34; title=&#34;SQL&#34;&gt;
+    SQL
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Data security</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/security/data-security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/security/data-security/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Encrypt passwords.&lt;/li&gt;
+&lt;li&gt;Store credentials safely.&lt;/li&gt;
+&lt;li&gt;Restrict all access.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Encryption:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/MD5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+MD5
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Credential storage:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.vaultproject.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Vault
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Restrict access:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.mysql.com/doc/refman/8.0/en/roles.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+MySQL roles
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/data-integrations/&#34; title=&#34;Data integrations&#34;&gt;
+    Data integrations
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/graph-databases/&#34; title=&#34;Graph databases&#34;&gt;
+    Graph databases
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/nosql/&#34; title=&#34;NoSQL&#34;&gt;
+    NoSQL
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/sql/&#34; title=&#34;SQL&#34;&gt;
+    SQL
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Database frameworks</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/frameworks/database-frameworks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/frameworks/database-frameworks/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Map tables to objects.&lt;/li&gt;
+&lt;li&gt;Simplify database queries.&lt;/li&gt;
+&lt;li&gt;Manage query caching.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Map tables:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://hibernate.org/orm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Hibernate ORM
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Database queries:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://spring.io/projects/spring-data/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Spring Data
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Query caching:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.sqlalchemy.org/en/20/core/connections.html#sql-caching&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+SQLAlchemy
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/graph-databases/&#34; title=&#34;Graph databases&#34;&gt;
+    Graph databases
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/nosql/&#34; title=&#34;NoSQL&#34;&gt;
+    NoSQL
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/sql/&#34; title=&#34;SQL&#34;&gt;
+    SQL
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Graph databases</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/data/graph-databases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/data/graph-databases/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Define the graph model.&lt;/li&gt;
+&lt;li&gt;Perform CRUD operations.&lt;/li&gt;
+&lt;li&gt;Optimise performance with indexes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Graph model:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.aws.amazon.com/neptune/latest/userguide/feature-overview-data-model.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Amazon Neptune
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;CRUD operations:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arangodb.com/tutorials/spring-data/part2-crud-operations-query-example/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+ArangoDB
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Optimisation:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://neo4j.com/docs/cypher-manual/current/indexes-for-search-performance/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Neo4j
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-storage/&#34; title=&#34;Cloud storage&#34;&gt;
+    Cloud storage
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/data-integrations/&#34; title=&#34;Data integrations&#34;&gt;
+    Data integrations
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/security/data-security/&#34; title=&#34;Data security&#34;&gt;
+    Data security
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/frameworks/database-frameworks/&#34; title=&#34;Database frameworks&#34;&gt;
+    Database frameworks
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Logging</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/visualisation/logging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/visualisation/logging/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Visualise logs.&lt;/li&gt;
+&lt;li&gt;Log within the code.&lt;/li&gt;
+&lt;li&gt;Implement distributed tracing.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Visualisation:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.elastic.co/elastic-stack&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+ELK Stack
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Log statements:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.slf4j.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+SLF4J
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Distributed tracing:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://spring.io/projects/spring-cloud-sleuth/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Spring Cloud Sleuth
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/soft-skills/tech-support/&#34; title=&#34;Tech support&#34;&gt;
+    Tech support
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: NoSQL</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/data/nosql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/data/nosql/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Define document structures.&lt;/li&gt;
+&lt;li&gt;Perform CRUD operations.&lt;/li&gt;
+&lt;li&gt;Optimise performance with indexes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Document structures:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.couchdb.org/en/stable/api/basics.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+CouchDB
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;CRUD operations:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api-dynamo-db.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+DynamoDB
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Optimisation:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mongodb.com/docs/manual/indexes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+MongoDB
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-storage/&#34; title=&#34;Cloud storage&#34;&gt;
+    Cloud storage
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/data-integrations/&#34; title=&#34;Data integrations&#34;&gt;
+    Data integrations
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/security/data-security/&#34; title=&#34;Data security&#34;&gt;
+    Data security
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/frameworks/database-frameworks/&#34; title=&#34;Database frameworks&#34;&gt;
+    Database frameworks
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: SQL</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/data/sql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/data/sql/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Define relational tables.&lt;/li&gt;
+&lt;li&gt;Perform CRUD operations.&lt;/li&gt;
+&lt;li&gt;Optimise performance with indexes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Define tables:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.mysql.com/doc/refman/8.0/en/sql-data-definition-statements.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+MySQL
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;CRUD operations:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.postgresql.org/docs/current/dml.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Postgres
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Optimisation:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://mariadb.com/kb/en/getting-started-with-indexes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+MariaDB
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-storage/&#34; title=&#34;Cloud storage&#34;&gt;
+    Cloud storage
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/data-integrations/&#34; title=&#34;Data integrations&#34;&gt;
+    Data integrations
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/security/data-security/&#34; title=&#34;Data security&#34;&gt;
+    Data security
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/frameworks/database-frameworks/&#34; title=&#34;Database frameworks&#34;&gt;
+    Database frameworks
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

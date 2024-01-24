@@ -1,0 +1,2590 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SEKB – Articles</title>
+    <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/</link>
+    <description>Recent content in Articles on SEKB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Agile meetings</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/agile/agile-meetings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/agile/agile-meetings/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Plan sprints.&lt;/li&gt;
+&lt;li&gt;Review sprints retrospectively.&lt;/li&gt;
+&lt;li&gt;Refine the backlog.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Planning:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.atlassian.com/agile/scrum/sprint-planning&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Jira
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Retrospectives:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://trello.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Trello
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Refinement:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://asana.com/resources/backlog-refinement&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Asana
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/soft-skills/teamwork/&#34; title=&#34;Teamwork&#34;&gt;
+    Teamwork
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Agile processes</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/agile/agile-processes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/agile/agile-processes/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Choose a process for well-defined projects.&lt;/li&gt;
+&lt;li&gt;Choose a process for isolated tasks.&lt;/li&gt;
+&lt;li&gt;Choose a process for prioritising customer satisfaction.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Defined projects:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Scrum_%28software_development%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Scrum
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Isolated tasks:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Kanban&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Kanban
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Customer satisfaction:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Extreme_programming&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Extreme Programming
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/soft-skills/management/&#34; title=&#34;Management&#34;&gt;
+    Management
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/soft-skills/tech-support/&#34; title=&#34;Tech support&#34;&gt;
+    Tech support
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Agile tools</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/agile/agile-tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/agile/agile-tools/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Represent tasks as tickets.&lt;/li&gt;
+&lt;li&gt;Implement code review.&lt;/li&gt;
+&lt;li&gt;Share idea with whiteboards.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Tickets:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.atlassian.com/software/jira&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Jira
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Code review:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/features/code-review&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+GitHub
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Whiteboards:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.atlassian.com/software/confluence/whiteboards&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Confluence
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/assisting-tools/communication-software/&#34; title=&#34;Communication software&#34;&gt;
+    Communication software
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/assisting-tools/project-management-software/&#34; title=&#34;Project management software&#34;&gt;
+    Project management software
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API design</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/apis/api-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/apis/api-design/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Map CRUD operations to HTTP methods.&lt;/li&gt;
+&lt;li&gt;Enforce idempotency.&lt;/li&gt;
+&lt;li&gt;Follow a naming style guide.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;CRUD:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://swagger.io/resources/articles/best-practices-in-api-design/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Swagger best practices
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Idempotency:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://stripe.com/docs/api/idempotent_requests&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Stripe idempotency
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Style guide:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/apis/design/naming_convention&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Google naming conventions
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/api-integrations/&#34; title=&#34;API integrations&#34;&gt;
+    API integrations
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/security/api-security/&#34; title=&#34;API security&#34;&gt;
+    API security
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/visualisation/monitoring/&#34; title=&#34;Monitoring&#34;&gt;
+    Monitoring
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API documentation</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/apis/api-documentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/apis/api-documentation/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Generate documentation from the source code.&lt;/li&gt;
+&lt;li&gt;Adhere to a specification.&lt;/li&gt;
+&lt;li&gt;Provide examples.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Generated documentation:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/RicoSuter/NSwag&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+NSwag
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Specification:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://swagger.io/specification/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+OpenAPI Specification (OAS)
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Examples:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.github.com/en/rest/authentication/authenticating-to-the-rest-api&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+GitHub authentication
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/design/system-documentation/&#34; title=&#34;System documentation&#34;&gt;
+    System documentation
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API implementation</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/apis/api-implementation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/apis/api-implementation/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Define APIs.&lt;/li&gt;
+&lt;li&gt;Consume APIs.&lt;/li&gt;
+&lt;li&gt;Handle errors.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Definition:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://spring.io/guides/tutorials/rest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Spring server
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Consumption:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://nodejs.org/api/http.html#class-httpclientrequest&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Node.js client
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Errors:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.spring.io/spring-cloud-openfeign/docs/current/reference/html/#timeout-handling&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+OpenFeign timeout handling
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/api-integrations/&#34; title=&#34;API integrations&#34;&gt;
+    API integrations
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/security/api-security/&#34; title=&#34;API security&#34;&gt;
+    API security
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/visualisation/monitoring/&#34; title=&#34;Monitoring&#34;&gt;
+    Monitoring
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API integrations</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/integrations/api-integrations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/integrations/api-integrations/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Call the backend from the frontend.&lt;/li&gt;
+&lt;li&gt;Link internal backends.&lt;/li&gt;
+&lt;li&gt;Call third party APIs.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Frontend to backend:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://react.dev/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+React
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Internal backends:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://microservices.io/patterns/server-side-discovery.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Service discovery
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Third party APIs:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://pypi.org/project/requests/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Python requests
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/apis/api-design/&#34; title=&#34;API design&#34;&gt;
+    API design
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/apis/api-implementation/&#34; title=&#34;API implementation&#34;&gt;
+    API implementation
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/security/api-security/&#34; title=&#34;API security&#34;&gt;
+    API security
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API security</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/security/api-security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/security/api-security/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Authenticate users.&lt;/li&gt;
+&lt;li&gt;Authorise users.&lt;/li&gt;
+&lt;li&gt;Protect externally facing APIs.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Authentication:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.authlib.org/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Authlib
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Authorisation:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.spring.io/spring-security/reference/servlet/authorization/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Spring Security
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;API access:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://konghq.com/products/kong-gateway&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Kong API gateway
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/apis/api-design/&#34; title=&#34;API design&#34;&gt;
+    API design
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/apis/api-implementation/&#34; title=&#34;API implementation&#34;&gt;
+    API implementation
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/api-integrations/&#34; title=&#34;API integrations&#34;&gt;
+    API integrations
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Application frameworks</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/frameworks/application-frameworks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/frameworks/application-frameworks/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Decouple dependencies with inversion of control.&lt;/li&gt;
+&lt;li&gt;Simplify API development.&lt;/li&gt;
+&lt;li&gt;Simplify web applications.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Inversion of control:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/beans.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Spring
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;API development:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://fastapi.tiangolo.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+FastAPI
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Web applications:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.djangoproject.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Django
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/apis/api-implementation/&#34; title=&#34;API implementation&#34;&gt;
+    API implementation
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Architecture</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/design/architecture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/design/architecture/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Choose a suitable overarching design.&lt;/li&gt;
+&lt;li&gt;Enforce system-wide consistency with domain-driven design.&lt;/li&gt;
+&lt;li&gt;Define components.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Overarching design:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Event-driven_architecture&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Event-driven architecture
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Domain-driven design:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://martinfowler.com/bliki/UbiquitousLanguage.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Ubiquitous language
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Components:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://microservices.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Microservices
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/apis/api-design/&#34; title=&#34;API design&#34;&gt;
+    API design
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/api-integrations/&#34; title=&#34;API integrations&#34;&gt;
+    API integrations
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/data-integrations/&#34; title=&#34;Data integrations&#34;&gt;
+    Data integrations
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/messaging-systems/&#34; title=&#34;Messaging systems&#34;&gt;
+    Messaging systems
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: CI/CD</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/devops/cicd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/devops/cicd/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Choose a CI/CI tool.&lt;/li&gt;
+&lt;li&gt;Implement infrastructure as code.&lt;/li&gt;
+&lt;li&gt;Deploy to multiple environments.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;CI/CD tool:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jenkins.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Jenkins
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Infrastructure as code:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.aws.amazon.com/whitepapers/latest/introduction-devops-aws/aws-cloudformation.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+AWS CloudFormation
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Multiple environments:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.github.com/en/actions/deployment/targeting-different-environments/using-environments-for-deployment&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+GitHub Actions
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-deployment/&#34; title=&#34;Cloud deployment&#34;&gt;
+    Cloud deployment
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-management/&#34; title=&#34;Cloud management&#34;&gt;
+    Cloud management
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Cloud deployment</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/cloud-services/cloud-deployment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/cloud-services/cloud-deployment/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Define infrastructure as code.&lt;/li&gt;
+&lt;li&gt;Automate cloud deployment.&lt;/li&gt;
+&lt;li&gt;Orchestrate on the cloud.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Infrastructure as code:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.terraform.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Terraform
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Cloud deployment:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/deploy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Google Cloud Deploy
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Orchestration:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/eks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Amazon EKS
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/devops/cicd/&#34; title=&#34;CI/CD&#34;&gt;
+    CI/CD
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/devops/containerisation/&#34; title=&#34;Containerisation&#34;&gt;
+    Containerisation
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/devops/system-administration/&#34; title=&#34;System administration&#34;&gt;
+    System administration
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Cloud management</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/cloud-services/cloud-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/cloud-services/cloud-management/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Manage virtual machines.&lt;/li&gt;
+&lt;li&gt;Scale application instances.&lt;/li&gt;
+&lt;li&gt;Perform command-line interactions.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Virtual machines:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/ec2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Amazon EC2
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Scaling:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.aws.amazon.com/autoscaling/ec2/userguide/auto-scaling-groups.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Amazon Auto Scaling groups
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Command-line interface:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+gcloud CLI
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/devops/cicd/&#34; title=&#34;CI/CD&#34;&gt;
+    CI/CD
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/devops/containerisation/&#34; title=&#34;Containerisation&#34;&gt;
+    Containerisation
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/devops/system-administration/&#34; title=&#34;System administration&#34;&gt;
+    System administration
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Cloud storage</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/cloud-services/cloud-storage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/cloud-services/cloud-storage/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Store unstructured data.&lt;/li&gt;
+&lt;li&gt;Store relational data.&lt;/li&gt;
+&lt;li&gt;Store documents.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Unstructured data:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/s3/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Amazon S3
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Relational data:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/sql/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Google Cloud SQL
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Documents:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/dynamodb/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Amazon DynamoDB
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/graph-databases/&#34; title=&#34;Graph databases&#34;&gt;
+    Graph databases
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/nosql/&#34; title=&#34;NoSQL&#34;&gt;
+    NoSQL
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/sql/&#34; title=&#34;SQL&#34;&gt;
+    SQL
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Communication software</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/assisting-tools/communication-software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/assisting-tools/communication-software/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Chat with colleagues.&lt;/li&gt;
+&lt;li&gt;Interview via video conference.&lt;/li&gt;
+&lt;li&gt;Comment on code reviews.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Chat:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://slack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Slack
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Video conferencing:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zoom.us/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Zoom
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Code review comments:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/commenting-on-a-pull-request&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+GitHub pull request comments
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-tools/&#34; title=&#34;Agile tools&#34;&gt;
+    Agile tools
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/soft-skills/teamwork/&#34; title=&#34;Teamwork&#34;&gt;
+    Teamwork
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/soft-skills/tech-support/&#34; title=&#34;Tech support&#34;&gt;
+    Tech support
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Containerisation</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/devops/containerisation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/devops/containerisation/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Containerise applications.&lt;/li&gt;
+&lt;li&gt;Orchestrate containers.&lt;/li&gt;
+&lt;li&gt;Manage containerisation.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Containerise:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.docker.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Docker
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Orchestrate:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kubernetes.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Kubernetes
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Manage:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://helm.sh/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Helm
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-deployment/&#34; title=&#34;Cloud deployment&#34;&gt;
+    Cloud deployment
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-management/&#34; title=&#34;Cloud management&#34;&gt;
+    Cloud management
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Core languages</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/languages/core-languages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/languages/core-languages/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Study core languages at expert level.&lt;/li&gt;
+&lt;li&gt;Implement advanced concepts where appropriate.&lt;/li&gt;
+&lt;li&gt;Understand language inner workings.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Expert level study:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://education.oracle.com/oracle-certification-path/pFamily_48&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Java certification
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Advanced concepts:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.oracle.com/technical-resources/articles/java/javareflection.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Java reflection
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Language inner workings:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.python.org/3.12/c-api/memory.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Python memory management
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/design/design-patterns/&#34; title=&#34;Design patterns&#34;&gt;
+    Design patterns
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Data integrations</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/integrations/data-integrations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/integrations/data-integrations/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Relocate reporting data to a dedicated database.&lt;/li&gt;
+&lt;li&gt;Load data from other databases.&lt;/li&gt;
+&lt;li&gt;Replicate data to a performant read-only database.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Relocate reporting data:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.informatica.com/gb/resources/articles/what-is-etl.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Informatica ETL
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Load data:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.mysql.com/doc/refman/8.0/en/mysqlimport.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+mysqlimport
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Replication:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://mariadb.com/kb/en/standard-replication/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+MariaDB replication
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/graph-databases/&#34; title=&#34;Graph databases&#34;&gt;
+    Graph databases
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/nosql/&#34; title=&#34;NoSQL&#34;&gt;
+    NoSQL
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/sql/&#34; title=&#34;SQL&#34;&gt;
+    SQL
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Data security</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/security/data-security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/security/data-security/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Encrypt passwords.&lt;/li&gt;
+&lt;li&gt;Store credentials safely.&lt;/li&gt;
+&lt;li&gt;Restrict all access.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Encryption:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/MD5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+MD5
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Credential storage:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.vaultproject.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Vault
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Restrict access:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.mysql.com/doc/refman/8.0/en/roles.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+MySQL roles
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/data-integrations/&#34; title=&#34;Data integrations&#34;&gt;
+    Data integrations
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/graph-databases/&#34; title=&#34;Graph databases&#34;&gt;
+    Graph databases
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/nosql/&#34; title=&#34;NoSQL&#34;&gt;
+    NoSQL
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/sql/&#34; title=&#34;SQL&#34;&gt;
+    SQL
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Database frameworks</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/frameworks/database-frameworks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/frameworks/database-frameworks/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Map tables to objects.&lt;/li&gt;
+&lt;li&gt;Simplify database queries.&lt;/li&gt;
+&lt;li&gt;Manage query caching.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Map tables:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://hibernate.org/orm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Hibernate ORM
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Database queries:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://spring.io/projects/spring-data/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Spring Data
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Query caching:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.sqlalchemy.org/en/20/core/connections.html#sql-caching&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+SQLAlchemy
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/graph-databases/&#34; title=&#34;Graph databases&#34;&gt;
+    Graph databases
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/nosql/&#34; title=&#34;NoSQL&#34;&gt;
+    NoSQL
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/sql/&#34; title=&#34;SQL&#34;&gt;
+    SQL
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Design patterns</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/design/design-patterns/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/design/design-patterns/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Implement features with Gang of Four design patterns.&lt;/li&gt;
+&lt;li&gt;Integrate components with integration patterns.&lt;/li&gt;
+&lt;li&gt;Apply SOLID principles.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Gang of Four patterns:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Factory_method_pattern&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Factory method pattern
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Integration patterns:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.enterpriseintegrationpatterns.com/patterns/messaging/EventMessage.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Event message
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;SOLID principles:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Single_responsibility_principle&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Single responsibility principle
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/apis/api-design/&#34; title=&#34;API design&#34;&gt;
+    API design
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/api-integrations/&#34; title=&#34;API integrations&#34;&gt;
+    API integrations
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/data-integrations/&#34; title=&#34;Data integrations&#34;&gt;
+    Data integrations
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/messaging-systems/&#34; title=&#34;Messaging systems&#34;&gt;
+    Messaging systems
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Frontend frameworks</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/frameworks/frontend-frameworks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/frameworks/frontend-frameworks/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Simplify frontend development.&lt;/li&gt;
+&lt;li&gt;Link the frontend to the backend.&lt;/li&gt;
+&lt;li&gt;Incorporate UI widgets.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Simplify development:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://svelte.dev/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Svelte
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Linkage to backend:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://react.dev/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+React
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;UI widgets:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://plugins.jquery.com/tag/carousel&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+jQuery carousel
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/languages/full-stack-development/&#34; title=&#34;Full stack development&#34;&gt;
+    Full stack development
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Full stack development</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/languages/full-stack-development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/languages/full-stack-development/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Be adept with both frontend and backend languages.&lt;/li&gt;
+&lt;li&gt;Write features across the full stack.&lt;/li&gt;
+&lt;li&gt;Work with specialist developers.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Adeptness at frontend and backend:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.javascript.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+JavaScript
+&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://www.java.com/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Java
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Full stack development:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/LAMP_%28software_bundle%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+LAMP
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Specialists:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.osdev.org/Getting_Started&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Operating system developer
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/frameworks/frontend-frameworks/&#34; title=&#34;Frontend frameworks&#34;&gt;
+    Frontend frameworks
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Graph databases</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/data/graph-databases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/data/graph-databases/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Define the graph model.&lt;/li&gt;
+&lt;li&gt;Perform CRUD operations.&lt;/li&gt;
+&lt;li&gt;Optimise performance with indexes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Graph model:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.aws.amazon.com/neptune/latest/userguide/feature-overview-data-model.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Amazon Neptune
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;CRUD operations:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arangodb.com/tutorials/spring-data/part2-crud-operations-query-example/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+ArangoDB
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Optimisation:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://neo4j.com/docs/cypher-manual/current/indexes-for-search-performance/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Neo4j
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-storage/&#34; title=&#34;Cloud storage&#34;&gt;
+    Cloud storage
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/data-integrations/&#34; title=&#34;Data integrations&#34;&gt;
+    Data integrations
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/security/data-security/&#34; title=&#34;Data security&#34;&gt;
+    Data security
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/frameworks/database-frameworks/&#34; title=&#34;Database frameworks&#34;&gt;
+    Database frameworks
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: IDEs</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/assiting-tools/ides/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/assiting-tools/ides/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Improve productivity with plugins.&lt;/li&gt;
+&lt;li&gt;Debug code.&lt;/li&gt;
+&lt;li&gt;Integrate with version control.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Plugins:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jetbrains.com/help/idea/managing-plugins.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+IntelliJ plugins
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Debugging:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://learn.microsoft.com/en-us/visualstudio/debugger&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Visual Studio debugger
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Version control:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;hhttps://eclipse.dev/egit/&#34;&gt;
+Egit
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/devops/system-administration/&#34; title=&#34;System administration&#34;&gt;
+    System administration
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Logging</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/visualisation/logging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/visualisation/logging/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Visualise logs.&lt;/li&gt;
+&lt;li&gt;Log within the code.&lt;/li&gt;
+&lt;li&gt;Implement distributed tracing.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Visualisation:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.elastic.co/elastic-stack&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+ELK Stack
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Log statements:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.slf4j.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+SLF4J
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Distributed tracing:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://spring.io/projects/spring-cloud-sleuth/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Spring Cloud Sleuth
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/soft-skills/tech-support/&#34; title=&#34;Tech support&#34;&gt;
+    Tech support
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Management</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/soft-skills/management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/soft-skills/management/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Mentor junior colleagues.&lt;/li&gt;
+&lt;li&gt;Prioritise tasks.&lt;/li&gt;
+&lt;li&gt;Judge time estimates.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mentoring:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.atlassian.com/blog/inside-atlassian/1-on-1-meeting-tips&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+One-on-one meetings
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Prioritisation:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.atlassian.com/software/jira&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Ranking of Jira tasks
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Time estimates:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.atlassian.com/agile/project-management/estimation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Story points
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-processes/&#34; title=&#34;Agile processes&#34;&gt;
+    Agile processes
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-meetings/&#34; title=&#34;Agile meetings&#34;&gt;
+    Agile meetings
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/assisting-tools/project-management-software/&#34; title=&#34;Project management software&#34;&gt;
+    Project management software
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Messaging systems</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/integrations/messaging-systems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/integrations/messaging-systems/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Decouple components with topics and queues.&lt;/li&gt;
+&lt;li&gt;Introduce resilient connections.&lt;/li&gt;
+&lt;li&gt;Scale components independently.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Decoupling:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/welcome.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Amazon SQS
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Resilience:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kafka.apache.org/documentation/#persistence&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Kafka persisetence
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Scaling:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-using-sqs-queue.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Amazon Auto Scaling
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/design/architecture/&#34; title=&#34;Architecture&#34;&gt;
+    Architecture
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Monitoring</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/visualisation/monitoring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/visualisation/monitoring/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Record application metrics.&lt;/li&gt;
+&lt;li&gt;Expose metrics via an API.&lt;/li&gt;
+&lt;li&gt;Monitor application health.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Record metrics:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://micrometer.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Micrometer
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Expose metrics:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.spring.io/spring-boot/docs/1.4.0.M2/reference/html/production-ready-monitoring.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Spring Boot Actuator
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Monitor health:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Kubernetes liveness probes
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/api-integrations/&#34; title=&#34;API integrations&#34;&gt;
+    API integrations
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Network security</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/security/network-security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/security/network-security/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Secure remote access.&lt;/li&gt;
+&lt;li&gt;Implement packet capture.&lt;/li&gt;
+&lt;li&gt;Protect resources with firewalls.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Remote access:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://openvpn.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+OpenVPN
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Packet capture:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/vpc/docs/packet-mirroring&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Google Packet Mirroring
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Firewalls:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/security/products/firewall&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Google Cloud Firewall
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-management/&#34; title=&#34;Cloud management&#34;&gt;
+    Cloud management
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: NoSQL</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/data/nosql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/data/nosql/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Define document structures.&lt;/li&gt;
+&lt;li&gt;Perform CRUD operations.&lt;/li&gt;
+&lt;li&gt;Optimise performance with indexes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Document structures:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.couchdb.org/en/stable/api/basics.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+CouchDB
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;CRUD operations:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api-dynamo-db.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+DynamoDB
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Optimisation:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mongodb.com/docs/manual/indexes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+MongoDB
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-storage/&#34; title=&#34;Cloud storage&#34;&gt;
+    Cloud storage
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/data-integrations/&#34; title=&#34;Data integrations&#34;&gt;
+    Data integrations
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/security/data-security/&#34; title=&#34;Data security&#34;&gt;
+    Data security
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/frameworks/database-frameworks/&#34; title=&#34;Database frameworks&#34;&gt;
+    Database frameworks
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Project management software</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/assisting-tools/project-management-software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/assisting-tools/project-management-software/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Manage tasks.&lt;/li&gt;
+&lt;li&gt;Share documents.&lt;/li&gt;
+&lt;li&gt;Collaborate via virtual whiteboards.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Tasks:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.atlassian.com/software/jira&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Jira
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Documents:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.atlassian.com/software/confluence&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Confluence
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Collaboration:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://trello.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Trello
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-tools/&#34; title=&#34;Agile tools&#34;&gt;
+    Agile tools
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/soft-skills/management/&#34; title=&#34;Management&#34;&gt;
+    Management
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Reporting</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/visualisation/reporting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/visualisation/reporting/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Report via an SDK.&lt;/li&gt;
+&lt;li&gt;Report via a customer relationship management tool.&lt;/li&gt;
+&lt;li&gt;Run custom reports.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;SDK:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://help.hitachivantara.com/Documentation/Pentaho/Data_Integration_and_Analytics/9.3/Products/Pentaho_Report_Designer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Pentaho
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Customer relationship management:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.salesforce.com/uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Salesforce
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Custom reports:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.oracle.com/uk/database/technologies/appdev/plsql.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+PL/SQL
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/data-integrations/&#34; title=&#34;Data integrations&#34;&gt;
+    Data integrations
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/soft-skills/tech-support/&#34; title=&#34;Tech support&#34;&gt;
+    Tech support
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: SQL</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/data/sql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/data/sql/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Define relational tables.&lt;/li&gt;
+&lt;li&gt;Perform CRUD operations.&lt;/li&gt;
+&lt;li&gt;Optimise performance with indexes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Define tables:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.mysql.com/doc/refman/8.0/en/sql-data-definition-statements.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+MySQL
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;CRUD operations:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.postgresql.org/docs/current/dml.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Postgres
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Optimisation:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://mariadb.com/kb/en/getting-started-with-indexes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+MariaDB
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-storage/&#34; title=&#34;Cloud storage&#34;&gt;
+    Cloud storage
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/data-integrations/&#34; title=&#34;Data integrations&#34;&gt;
+    Data integrations
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/security/data-security/&#34; title=&#34;Data security&#34;&gt;
+    Data security
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/frameworks/database-frameworks/&#34; title=&#34;Database frameworks&#34;&gt;
+    Database frameworks
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Supplementary languages</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/languages/supplementary-languages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/languages/supplementary-languages/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Configure applications.&lt;/li&gt;
+&lt;li&gt;Promote reuse with templating engines.&lt;/li&gt;
+&lt;li&gt;Present data.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Configuration:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://yaml.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+YAML
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Templates:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thymeleaf.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Thymeleaf
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Presentation:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.markdownguide.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Markdown
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/design/system-documentation/&#34; title=&#34;System documentation&#34;&gt;
+    System documentation
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: System administration</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/devops/system-administration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/devops/system-administration/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Issue commands.&lt;/li&gt;
+&lt;li&gt;Write scripts.&lt;/li&gt;
+&lt;li&gt;Manage code.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Commands:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Windows command prompt
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Scripts:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gnu.org/software/bash/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Bash
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Code:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+GitHub
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/assiting-tools/ides/&#34; title=&#34;IDEs&#34;&gt;
+    IDEs
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: System documentation</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/design/system-documentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/design/system-documentation/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Illustrate components with a modelling tool.&lt;/li&gt;
+&lt;li&gt;Document interface contracts.&lt;/li&gt;
+&lt;li&gt;Provide a dedicated website for documentation.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Modelling tool:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://plantuml.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+PlantUML
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Interface contracts:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://swagger.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Swagger API documentation
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Dedicated website:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://antora.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Antora
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/apis/api-documentation/&#34; title=&#34;API documentation&#34;&gt;
+    API documentation
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Teamwork</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/soft-skills/teamwork/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/soft-skills/teamwork/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Facilitate knowledge transfer.&lt;/li&gt;
+&lt;li&gt;Deliver presentations.&lt;/li&gt;
+&lt;li&gt;Write code together.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Knowledge transfer:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.computer.org/publications/tech-news/trends/agile-code-review-benefits&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Code review comments
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Presentations:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.apple.com/uk/keynote/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Keynote presentations
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Coding:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Pair_programming&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Pair programming
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-processes/&#34; title=&#34;Agile processes&#34;&gt;
+    Agile processes
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-meetings/&#34; title=&#34;Agile meetings&#34;&gt;
+    Agile meetings
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Tech support</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/soft-skills/tech-support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/soft-skills/tech-support/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Communicate with customers.&lt;/li&gt;
+&lt;li&gt;Log incidents.&lt;/li&gt;
+&lt;li&gt;Undergo training.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Communication:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tidio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Tidio chat
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Incidents:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pagerduty.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+PagerDuty
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Training:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/professional-certificates/google-it-support&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Google certification
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-processes/&#34; title=&#34;Agile processes&#34;&gt;
+    Agile processes
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/visualisation/logging/&#34; title=&#34;Logging&#34;&gt;
+    Logging
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Test frameworks</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/testing/test-frameworks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/testing/test-frameworks/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Implement unit testing.&lt;/li&gt;
+&lt;li&gt;Implement mocks.&lt;/li&gt;
+&lt;li&gt;Implement frontend testing.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Unit testing:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://junit.org/junit5/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+JUnit
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Mocks:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://site.mockito.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Mockito
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Frontend testing:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.selenium.dev/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Selenium
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/frameworks/application-frameworks/&#34; title=&#34;Application frameworks&#34;&gt;
+    Application frameworks
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/frameworks/database-frameworks/&#34; title=&#34;Database frameworks&#34;&gt;
+    Database frameworks
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/frameworks/frontend-frameworks/&#34; title=&#34;Frontend frameworks&#34;&gt;
+    Frontend frameworks
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/languages/full-stack-development/&#34; title=&#34;Full stack development&#34;&gt;
+    Full stack development
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Test principles</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/testing/test-principles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/testing/test-principles/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Practise test-driven development.&lt;/li&gt;
+&lt;li&gt;Practise behaviour-driven development.&lt;/li&gt;
+&lt;li&gt;Implement a test strategy.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Test-driven development:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.codecademy.com/article/tdd-red-green-refactor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Red-green-refactor
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Behaviour-driven development:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Given-When-Then&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Given-When-Then
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Test strategy:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://martinfowler.com/articles/practical-test-pyramid.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Test pyramid
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-processes/&#34; title=&#34;Agile processes&#34;&gt;
+    Agile processes
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Testing tools</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/testing/testing-tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/testing/testing-tools/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Measure code coverage.&lt;/li&gt;
+&lt;li&gt;Automate testing.&lt;/li&gt;
+&lt;li&gt;Deploy to test environments.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Code coverage:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sonarsource.com/products/sonarqube/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+SonarQube
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Automation:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jenkins.io/doc/developer/testing/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Jenkins
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Test environments:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Deployment_environment#Staging&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Staging
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/devops/cicd/&#34; title=&#34;CI/CD&#34;&gt;
+    CI/CD
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-deployment/&#34; title=&#34;Cloud deployment&#34;&gt;
+    Cloud deployment
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

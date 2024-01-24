@@ -1,0 +1,193 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SEKB – DevOps</title>
+    <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/devops/</link>
+    <description>Recent content in DevOps on SEKB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/devops/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: CI/CD</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/devops/cicd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/devops/cicd/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Choose a CI/CI tool.&lt;/li&gt;
+&lt;li&gt;Implement infrastructure as code.&lt;/li&gt;
+&lt;li&gt;Deploy to multiple environments.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;CI/CD tool:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jenkins.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Jenkins
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Infrastructure as code:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.aws.amazon.com/whitepapers/latest/introduction-devops-aws/aws-cloudformation.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+AWS CloudFormation
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Multiple environments:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.github.com/en/actions/deployment/targeting-different-environments/using-environments-for-deployment&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+GitHub Actions
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-deployment/&#34; title=&#34;Cloud deployment&#34;&gt;
+    Cloud deployment
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-management/&#34; title=&#34;Cloud management&#34;&gt;
+    Cloud management
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Containerisation</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/devops/containerisation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/devops/containerisation/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Containerise applications.&lt;/li&gt;
+&lt;li&gt;Orchestrate containers.&lt;/li&gt;
+&lt;li&gt;Manage containerisation.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Containerise:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.docker.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Docker
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Orchestrate:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kubernetes.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Kubernetes
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Manage:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://helm.sh/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Helm
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-deployment/&#34; title=&#34;Cloud deployment&#34;&gt;
+    Cloud deployment
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-management/&#34; title=&#34;Cloud management&#34;&gt;
+    Cloud management
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: System administration</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/devops/system-administration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/devops/system-administration/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Issue commands.&lt;/li&gt;
+&lt;li&gt;Write scripts.&lt;/li&gt;
+&lt;li&gt;Manage code.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Commands:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Windows command prompt
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Scripts:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gnu.org/software/bash/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Bash
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Code:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+GitHub
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/assiting-tools/ides/&#34; title=&#34;IDEs&#34;&gt;
+    IDEs
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

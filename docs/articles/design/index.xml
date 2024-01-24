@@ -1,0 +1,213 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SEKB – Design</title>
+    <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/design/</link>
+    <description>Recent content in Design on SEKB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Architecture</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/design/architecture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/design/architecture/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Choose a suitable overarching design.&lt;/li&gt;
+&lt;li&gt;Enforce system-wide consistency with domain-driven design.&lt;/li&gt;
+&lt;li&gt;Define components.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Overarching design:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Event-driven_architecture&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Event-driven architecture
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Domain-driven design:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://martinfowler.com/bliki/UbiquitousLanguage.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Ubiquitous language
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Components:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://microservices.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Microservices
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/apis/api-design/&#34; title=&#34;API design&#34;&gt;
+    API design
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/api-integrations/&#34; title=&#34;API integrations&#34;&gt;
+    API integrations
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/data-integrations/&#34; title=&#34;Data integrations&#34;&gt;
+    Data integrations
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/messaging-systems/&#34; title=&#34;Messaging systems&#34;&gt;
+    Messaging systems
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Design patterns</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/design/design-patterns/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/design/design-patterns/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Implement features with Gang of Four design patterns.&lt;/li&gt;
+&lt;li&gt;Integrate components with integration patterns.&lt;/li&gt;
+&lt;li&gt;Apply SOLID principles.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Gang of Four patterns:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Factory_method_pattern&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Factory method pattern
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Integration patterns:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.enterpriseintegrationpatterns.com/patterns/messaging/EventMessage.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Event message
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;SOLID principles:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Single_responsibility_principle&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Single responsibility principle
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/apis/api-design/&#34; title=&#34;API design&#34;&gt;
+    API design
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/api-integrations/&#34; title=&#34;API integrations&#34;&gt;
+    API integrations
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/data-integrations/&#34; title=&#34;Data integrations&#34;&gt;
+    Data integrations
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/messaging-systems/&#34; title=&#34;Messaging systems&#34;&gt;
+    Messaging systems
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: System documentation</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/design/system-documentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/design/system-documentation/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Illustrate components with a modelling tool.&lt;/li&gt;
+&lt;li&gt;Document interface contracts.&lt;/li&gt;
+&lt;li&gt;Provide a dedicated website for documentation.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Modelling tool:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://plantuml.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+PlantUML
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Interface contracts:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://swagger.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Swagger API documentation
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Dedicated website:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://antora.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Antora
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/apis/api-documentation/&#34; title=&#34;API documentation&#34;&gt;
+    API documentation
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

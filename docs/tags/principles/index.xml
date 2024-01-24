@@ -1,0 +1,323 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SEKB – principles</title>
+    <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/tags/principles/</link>
+    <description>Recent content in principles on SEKB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/tags/principles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Application frameworks</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/frameworks/application-frameworks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/frameworks/application-frameworks/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Decouple dependencies with inversion of control.&lt;/li&gt;
+&lt;li&gt;Simplify API development.&lt;/li&gt;
+&lt;li&gt;Simplify web applications.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Inversion of control:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/beans.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Spring
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;API development:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://fastapi.tiangolo.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+FastAPI
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Web applications:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.djangoproject.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Django
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/apis/api-implementation/&#34; title=&#34;API implementation&#34;&gt;
+    API implementation
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Architecture</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/design/architecture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/design/architecture/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Choose a suitable overarching design.&lt;/li&gt;
+&lt;li&gt;Enforce system-wide consistency with domain-driven design.&lt;/li&gt;
+&lt;li&gt;Define components.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Overarching design:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Event-driven_architecture&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Event-driven architecture
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Domain-driven design:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://martinfowler.com/bliki/UbiquitousLanguage.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Ubiquitous language
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Components:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://microservices.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Microservices
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/apis/api-design/&#34; title=&#34;API design&#34;&gt;
+    API design
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/api-integrations/&#34; title=&#34;API integrations&#34;&gt;
+    API integrations
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/data-integrations/&#34; title=&#34;Data integrations&#34;&gt;
+    Data integrations
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/messaging-systems/&#34; title=&#34;Messaging systems&#34;&gt;
+    Messaging systems
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Design patterns</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/design/design-patterns/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/design/design-patterns/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Implement features with Gang of Four design patterns.&lt;/li&gt;
+&lt;li&gt;Integrate components with integration patterns.&lt;/li&gt;
+&lt;li&gt;Apply SOLID principles.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Gang of Four patterns:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Factory_method_pattern&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Factory method pattern
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Integration patterns:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.enterpriseintegrationpatterns.com/patterns/messaging/EventMessage.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Event message
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;SOLID principles:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Single_responsibility_principle&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Single responsibility principle
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/apis/api-design/&#34; title=&#34;API design&#34;&gt;
+    API design
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/api-integrations/&#34; title=&#34;API integrations&#34;&gt;
+    API integrations
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/data-integrations/&#34; title=&#34;Data integrations&#34;&gt;
+    Data integrations
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/messaging-systems/&#34; title=&#34;Messaging systems&#34;&gt;
+    Messaging systems
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Messaging systems</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/integrations/messaging-systems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/integrations/messaging-systems/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Decouple components with topics and queues.&lt;/li&gt;
+&lt;li&gt;Introduce resilient connections.&lt;/li&gt;
+&lt;li&gt;Scale components independently.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Decoupling:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/welcome.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Amazon SQS
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Resilience:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kafka.apache.org/documentation/#persistence&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Kafka persisetence
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Scaling:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-using-sqs-queue.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Amazon Auto Scaling
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/design/architecture/&#34; title=&#34;Architecture&#34;&gt;
+    Architecture
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Test principles</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/testing/test-principles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/testing/test-principles/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Practise test-driven development.&lt;/li&gt;
+&lt;li&gt;Practise behaviour-driven development.&lt;/li&gt;
+&lt;li&gt;Implement a test strategy.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Test-driven development:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.codecademy.com/article/tdd-red-green-refactor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Red-green-refactor
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Behaviour-driven development:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Given-When-Then&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Given-When-Then
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Test strategy:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://martinfowler.com/articles/practical-test-pyramid.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Test pyramid
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-processes/&#34; title=&#34;Agile processes&#34;&gt;
+    Agile processes
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

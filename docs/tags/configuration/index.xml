@@ -1,0 +1,548 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SEKB – configuration</title>
+    <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/tags/configuration/</link>
+    <description>Recent content in configuration on SEKB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/tags/configuration/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: CI/CD</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/devops/cicd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/devops/cicd/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Choose a CI/CI tool.&lt;/li&gt;
+&lt;li&gt;Implement infrastructure as code.&lt;/li&gt;
+&lt;li&gt;Deploy to multiple environments.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;CI/CD tool:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jenkins.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Jenkins
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Infrastructure as code:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.aws.amazon.com/whitepapers/latest/introduction-devops-aws/aws-cloudformation.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+AWS CloudFormation
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Multiple environments:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.github.com/en/actions/deployment/targeting-different-environments/using-environments-for-deployment&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+GitHub Actions
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-deployment/&#34; title=&#34;Cloud deployment&#34;&gt;
+    Cloud deployment
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-management/&#34; title=&#34;Cloud management&#34;&gt;
+    Cloud management
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Cloud deployment</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/cloud-services/cloud-deployment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/cloud-services/cloud-deployment/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Define infrastructure as code.&lt;/li&gt;
+&lt;li&gt;Automate cloud deployment.&lt;/li&gt;
+&lt;li&gt;Orchestrate on the cloud.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Infrastructure as code:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.terraform.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Terraform
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Cloud deployment:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/deploy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Google Cloud Deploy
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Orchestration:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/eks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Amazon EKS
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/devops/cicd/&#34; title=&#34;CI/CD&#34;&gt;
+    CI/CD
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/devops/containerisation/&#34; title=&#34;Containerisation&#34;&gt;
+    Containerisation
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/devops/system-administration/&#34; title=&#34;System administration&#34;&gt;
+    System administration
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Cloud management</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/cloud-services/cloud-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/cloud-services/cloud-management/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Manage virtual machines.&lt;/li&gt;
+&lt;li&gt;Scale application instances.&lt;/li&gt;
+&lt;li&gt;Perform command-line interactions.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Virtual machines:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/ec2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Amazon EC2
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Scaling:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.aws.amazon.com/autoscaling/ec2/userguide/auto-scaling-groups.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Amazon Auto Scaling groups
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Command-line interface:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+gcloud CLI
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/devops/cicd/&#34; title=&#34;CI/CD&#34;&gt;
+    CI/CD
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/devops/containerisation/&#34; title=&#34;Containerisation&#34;&gt;
+    Containerisation
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/devops/system-administration/&#34; title=&#34;System administration&#34;&gt;
+    System administration
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Containerisation</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/devops/containerisation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/devops/containerisation/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Containerise applications.&lt;/li&gt;
+&lt;li&gt;Orchestrate containers.&lt;/li&gt;
+&lt;li&gt;Manage containerisation.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Containerise:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.docker.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Docker
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Orchestrate:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kubernetes.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Kubernetes
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Manage:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://helm.sh/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Helm
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-deployment/&#34; title=&#34;Cloud deployment&#34;&gt;
+    Cloud deployment
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-management/&#34; title=&#34;Cloud management&#34;&gt;
+    Cloud management
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Logging</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/visualisation/logging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/visualisation/logging/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Visualise logs.&lt;/li&gt;
+&lt;li&gt;Log within the code.&lt;/li&gt;
+&lt;li&gt;Implement distributed tracing.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Visualisation:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.elastic.co/elastic-stack&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+ELK Stack
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Log statements:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.slf4j.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+SLF4J
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Distributed tracing:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://spring.io/projects/spring-cloud-sleuth/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Spring Cloud Sleuth
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/soft-skills/tech-support/&#34; title=&#34;Tech support&#34;&gt;
+    Tech support
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Monitoring</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/visualisation/monitoring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/visualisation/monitoring/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Record application metrics.&lt;/li&gt;
+&lt;li&gt;Expose metrics via an API.&lt;/li&gt;
+&lt;li&gt;Monitor application health.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Record metrics:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://micrometer.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Micrometer
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Expose metrics:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.spring.io/spring-boot/docs/1.4.0.M2/reference/html/production-ready-monitoring.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Spring Boot Actuator
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Monitor health:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Kubernetes liveness probes
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/api-integrations/&#34; title=&#34;API integrations&#34;&gt;
+    API integrations
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Network security</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/security/network-security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/security/network-security/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Secure remote access.&lt;/li&gt;
+&lt;li&gt;Implement packet capture.&lt;/li&gt;
+&lt;li&gt;Protect resources with firewalls.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Remote access:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://openvpn.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+OpenVPN
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Packet capture:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/vpc/docs/packet-mirroring&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Google Packet Mirroring
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Firewalls:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/security/products/firewall&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Google Cloud Firewall
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-management/&#34; title=&#34;Cloud management&#34;&gt;
+    Cloud management
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: System administration</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/devops/system-administration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/devops/system-administration/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Issue commands.&lt;/li&gt;
+&lt;li&gt;Write scripts.&lt;/li&gt;
+&lt;li&gt;Manage code.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Commands:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Windows command prompt
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Scripts:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gnu.org/software/bash/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Bash
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Code:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+GitHub
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/assiting-tools/ides/&#34; title=&#34;IDEs&#34;&gt;
+    IDEs
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Testing tools</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/testing/testing-tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/testing/testing-tools/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Measure code coverage.&lt;/li&gt;
+&lt;li&gt;Automate testing.&lt;/li&gt;
+&lt;li&gt;Deploy to test environments.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Code coverage:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sonarsource.com/products/sonarqube/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+SonarQube
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Automation:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jenkins.io/doc/developer/testing/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Jenkins
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Test environments:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Deployment_environment#Staging&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Staging
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/devops/cicd/&#34; title=&#34;CI/CD&#34;&gt;
+    CI/CD
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-deployment/&#34; title=&#34;Cloud deployment&#34;&gt;
+    Cloud deployment
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

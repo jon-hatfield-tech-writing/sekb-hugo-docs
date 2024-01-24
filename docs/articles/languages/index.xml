@@ -1,0 +1,185 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SEKB – Languages</title>
+    <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/languages/</link>
+    <description>Recent content in Languages on SEKB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/languages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Core languages</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/languages/core-languages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/languages/core-languages/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Study core languages at expert level.&lt;/li&gt;
+&lt;li&gt;Implement advanced concepts where appropriate.&lt;/li&gt;
+&lt;li&gt;Understand language inner workings.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Expert level study:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://education.oracle.com/oracle-certification-path/pFamily_48&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Java certification
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Advanced concepts:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.oracle.com/technical-resources/articles/java/javareflection.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Java reflection
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Language inner workings:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.python.org/3.12/c-api/memory.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Python memory management
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/design/design-patterns/&#34; title=&#34;Design patterns&#34;&gt;
+    Design patterns
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Full stack development</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/languages/full-stack-development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/languages/full-stack-development/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Be adept with both frontend and backend languages.&lt;/li&gt;
+&lt;li&gt;Write features across the full stack.&lt;/li&gt;
+&lt;li&gt;Work with specialist developers.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Adeptness at frontend and backend:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.javascript.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+JavaScript
+&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://www.java.com/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Java
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Full stack development:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/LAMP_%28software_bundle%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+LAMP
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Specialists:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.osdev.org/Getting_Started&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Operating system developer
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/frameworks/frontend-frameworks/&#34; title=&#34;Frontend frameworks&#34;&gt;
+    Frontend frameworks
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Supplementary languages</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/languages/supplementary-languages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/languages/supplementary-languages/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Configure applications.&lt;/li&gt;
+&lt;li&gt;Promote reuse with templating engines.&lt;/li&gt;
+&lt;li&gt;Present data.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Configuration:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://yaml.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+YAML
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Templates:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thymeleaf.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Thymeleaf
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Presentation:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.markdownguide.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Markdown
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/design/system-documentation/&#34; title=&#34;System documentation&#34;&gt;
+    System documentation
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

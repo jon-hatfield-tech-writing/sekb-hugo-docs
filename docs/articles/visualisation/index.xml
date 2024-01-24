@@ -1,0 +1,188 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SEKB – Visualisation</title>
+    <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/visualisation/</link>
+    <description>Recent content in Visualisation on SEKB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/visualisation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Logging</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/visualisation/logging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/visualisation/logging/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Visualise logs.&lt;/li&gt;
+&lt;li&gt;Log within the code.&lt;/li&gt;
+&lt;li&gt;Implement distributed tracing.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Visualisation:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.elastic.co/elastic-stack&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+ELK Stack
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Log statements:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.slf4j.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+SLF4J
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Distributed tracing:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://spring.io/projects/spring-cloud-sleuth/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Spring Cloud Sleuth
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/soft-skills/tech-support/&#34; title=&#34;Tech support&#34;&gt;
+    Tech support
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Monitoring</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/visualisation/monitoring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/visualisation/monitoring/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Record application metrics.&lt;/li&gt;
+&lt;li&gt;Expose metrics via an API.&lt;/li&gt;
+&lt;li&gt;Monitor application health.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Record metrics:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://micrometer.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Micrometer
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Expose metrics:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.spring.io/spring-boot/docs/1.4.0.M2/reference/html/production-ready-monitoring.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Spring Boot Actuator
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Monitor health:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Kubernetes liveness probes
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/api-integrations/&#34; title=&#34;API integrations&#34;&gt;
+    API integrations
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Reporting</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/visualisation/reporting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/visualisation/reporting/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Report via an SDK.&lt;/li&gt;
+&lt;li&gt;Report via a customer relationship management tool.&lt;/li&gt;
+&lt;li&gt;Run custom reports.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;SDK:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://help.hitachivantara.com/Documentation/Pentaho/Data_Integration_and_Analytics/9.3/Products/Pentaho_Report_Designer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Pentaho
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Customer relationship management:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.salesforce.com/uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Salesforce
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Custom reports:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.oracle.com/uk/database/technologies/appdev/plsql.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+PL/SQL
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/data-integrations/&#34; title=&#34;Data integrations&#34;&gt;
+    Data integrations
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/soft-skills/tech-support/&#34; title=&#34;Tech support&#34;&gt;
+    Tech support
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

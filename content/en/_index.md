@@ -2,7 +2,7 @@
 title: Knowledge base
 ---
 
-{{< blocks/cover title="Software engineer knowledge base" image_anchor="top" height="full" >}}
+{{< blocks/cover title="Software Engineer Knowledge Base" image_anchor="top" height="full" >}}
 <p class="lead mt-5">Enhance your engineering knowledge</p>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}

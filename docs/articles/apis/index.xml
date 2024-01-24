@@ -1,0 +1,203 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SEKB – APIs</title>
+    <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/apis/</link>
+    <description>Recent content in APIs on SEKB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/apis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API design</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/apis/api-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/apis/api-design/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Map CRUD operations to HTTP methods.&lt;/li&gt;
+&lt;li&gt;Enforce idempotency.&lt;/li&gt;
+&lt;li&gt;Follow a naming style guide.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;CRUD:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://swagger.io/resources/articles/best-practices-in-api-design/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Swagger best practices
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Idempotency:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://stripe.com/docs/api/idempotent_requests&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Stripe idempotency
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Style guide:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/apis/design/naming_convention&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Google naming conventions
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/api-integrations/&#34; title=&#34;API integrations&#34;&gt;
+    API integrations
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/security/api-security/&#34; title=&#34;API security&#34;&gt;
+    API security
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/visualisation/monitoring/&#34; title=&#34;Monitoring&#34;&gt;
+    Monitoring
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API documentation</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/apis/api-documentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/apis/api-documentation/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Generate documentation from the source code.&lt;/li&gt;
+&lt;li&gt;Adhere to a specification.&lt;/li&gt;
+&lt;li&gt;Provide examples.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Generated documentation:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/RicoSuter/NSwag&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+NSwag
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Specification:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://swagger.io/specification/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+OpenAPI Specification (OAS)
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Examples:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.github.com/en/rest/authentication/authenticating-to-the-rest-api&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+GitHub authentication
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/design/system-documentation/&#34; title=&#34;System documentation&#34;&gt;
+    System documentation
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API implementation</title>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/apis/api-implementation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/apis/api-implementation/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Define APIs.&lt;/li&gt;
+&lt;li&gt;Consume APIs.&lt;/li&gt;
+&lt;li&gt;Handle errors.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Definition:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://spring.io/guides/tutorials/rest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Spring server
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Consumption:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://nodejs.org/api/http.html#class-httpclientrequest&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Node.js client
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Errors:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.spring.io/spring-cloud-openfeign/docs/current/reference/html/#timeout-handling&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+OpenFeign timeout handling
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/api-integrations/&#34; title=&#34;API integrations&#34;&gt;
+    API integrations
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/security/api-security/&#34; title=&#34;API security&#34;&gt;
+    API security
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/visualisation/monitoring/&#34; title=&#34;Monitoring&#34;&gt;
+    Monitoring
+&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

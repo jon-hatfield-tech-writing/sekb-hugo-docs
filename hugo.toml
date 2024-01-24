@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Software engineer knowledge base"
+title = "SEKB"
 
 # Language settings
 contentDir = "content/en"
@@ -12,6 +12,8 @@ enableRobotsTXT = true
 
 # Will give values to .Lastmod etc.
 enableGitInfo = false
+
+publishDir = "docs"
 
 # Comment out to enable taxonomies in Docsy
 # disableKinds = ["taxonomy", "taxonomyTerm"]
@@ -108,10 +110,9 @@ github_project_repo = "https://github.com/jon-hatfield-tech-writing/hugo-docs"
 github_branch= "main"
 
 # Google Custom Search Engine ID. Remove or comment out to disable search.
-gcs_engine_id = "d72aa9b2712488cc3"
 
 # Enable Lunr.js offline search
-offlineSearch = false
+offlineSearch = true
 
 # Enable syntax highlighting and copy buttons on code blocks with Prism
 prism_syntax_highlighting = false
