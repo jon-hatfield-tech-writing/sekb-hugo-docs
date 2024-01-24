@@ -7,7 +7,7 @@ Agile
 {{< cardpane >}}
 {{< card >}}
 
-![Meeting icon](/meeting.png)
+![Meeting icon](meeting.png)
 
 Agile meetings
 
