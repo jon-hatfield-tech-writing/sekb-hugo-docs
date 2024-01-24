@@ -18,7 +18,7 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 {{< /card >}}
 {{< card >}}
 
-![Process icon](/process.png)
+![Process icon](process.png)
 
 Agile processes
 
@@ -29,7 +29,7 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 {{< /card >}}
 {{< card >}}
 
-![Tools icon](/tools.png)
+![Tools icon](tools.png)
 
 Agile tools
 

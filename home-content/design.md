@@ -7,7 +7,7 @@ Design
 {{< cardpane >}}
 {{< card >}}
 
-![Architecture icon](/architecture.png)
+![Architecture icon](architecture.png)
 
 Architecture
 
@@ -18,7 +18,7 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 {{< /card >}}
 {{< card >}}
 
-![Patterns icon](/design-patterns.png)
+![Patterns icon](design-patterns.png)
 
 Design patterns
 
@@ -29,7 +29,7 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 {{< /card >}}
 {{< card >}}
 
-![Documentation icon](/docs.png)
+![Documentation icon](docs.png)
 
 System documentation
 

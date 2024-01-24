@@ -7,7 +7,7 @@ Languages
 {{< cardpane >}}
 {{< card >}}
 
-![Nucleus icon](/core.png)
+![Nucleus icon](core.png)
 
 Core languages
 
@@ -18,7 +18,7 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 {{< /card >}}
 {{< card >}}
 
-![Stack icon](/stack.png)
+![Stack icon](stack.png)
 
 Full stack development
 
@@ -29,7 +29,7 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 {{< /card >}}
 {{< card >}}
 
-![Attachment icon](/attach.png)
+![Attachment icon](attach.png)
 
 Supplementary languages
 

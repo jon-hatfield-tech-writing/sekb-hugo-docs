@@ -7,7 +7,7 @@ Frameworks
 {{< cardpane >}}
 {{< card >}}
 
-![Application icon](/application.png)
+![Application icon](application.png)
 
 Application frameworks
 
@@ -18,7 +18,7 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 {{< /card >}}
 {{< card >}}
 
-![Database icon](/database.png)
+![Database icon](database.png)
 
 Database frameworks
 
@@ -29,7 +29,7 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 {{< /card >}}
 {{< card >}}
 
-![Frontend icon](/frontend.png)
+![Frontend icon](frontend.png)
 
 Frontend frameworks
 

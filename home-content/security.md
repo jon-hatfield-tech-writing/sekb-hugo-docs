@@ -7,7 +7,7 @@ Security
 {{< cardpane >}}
 {{< card >}}
 
-![API security icon](/api-security.png)
+![API security icon](api-security.png)
 
 API security
 
@@ -18,7 +18,7 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 {{< /card >}}
 {{< card >}}
 
-![Data security icon](/data-security.png)
+![Data security icon](data-security.png)
 
 Data security
 
@@ -29,7 +29,7 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 {{< /card >}}
 {{< card >}}
 
-![Network security icon](/network-security.png)
+![Network security icon](network-security.png)
 
 Network security
 

@@ -7,7 +7,7 @@ Cloud services
 {{< cardpane >}}
 {{< card >}}
 
-![Deployment icon](/cloud-deployments.png)
+![Deployment icon](cloud-deployments.png)
 
 Cloud deployment
 
@@ -18,7 +18,7 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 {{< /card >}}
 {{< card >}}
 
-![Management icon](/management.png)
+![Management icon](management.png)
 
 Cloud management
 
@@ -29,7 +29,7 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 {{< /card >}}
 {{< card >}}
 
-![Storage icon](/cloud-storage.png)
+![Storage icon](cloud-storage.png)
 
 Cloud storage
 

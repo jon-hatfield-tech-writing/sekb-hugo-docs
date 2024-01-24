@@ -7,7 +7,7 @@ Testing
 {{< cardpane >}}
 {{< card >}}
 
-![Framework icon](/framework.png)
+![Framework icon](framework.png)
 
 Test frameworks
 
@@ -18,7 +18,7 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 {{< /card >}}
 {{< card >}}
 
-![Principles icon](/principles.png)
+![Principles icon](principles.png)
 
 Test principles
 
@@ -29,7 +29,7 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 {{< /card >}}
 {{< card >}}
 
-![Tools icon](/tools.png)
+![Tools icon](tools.png)
 
 Testing tools
 

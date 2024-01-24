@@ -7,7 +7,7 @@ DevOps
 {{< cardpane >}}
 {{< card >}}
 
-![CI/CD icon](/cicd.png)
+![CI/CD icon](cicd.png)
 
 CI/CD
 
@@ -18,7 +18,7 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 {{< /card >}}
 {{< card >}}
 
-![Container icon](/containers.png)
+![Container icon](containers.png)
 
 Containerisation
 
@@ -29,7 +29,7 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 {{< /card >}}
 {{< card >}}
 
-![Admin icon](/sys-admin.png)
+![Admin icon](sys-admin.png)
 
 System administration
 

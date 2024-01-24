@@ -7,7 +7,7 @@ Integrations
 {{< cardpane >}}
 {{< card >}}
 
-![HTTP icon](/http.png)
+![HTTP icon](http.png)
 
 API integrations
 
@@ -18,7 +18,7 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 {{< /card >}}
 {{< card >}}
 
-![Data integration icon](/data-integration.png)
+![Data integration icon](data-integration.png)
 
 Data integrations
 
@@ -29,7 +29,7 @@ Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 {{< /card >}}
 {{< card >}}
 
-![Message icon](/message.png)
+![Message icon](message.png)
 
 Messaging systems
 
