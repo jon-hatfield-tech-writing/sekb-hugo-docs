@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SEKB – Assiting tools</title>
+    <title>SEKB – Assisting tools</title>
     <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/assisting-tools/</link>
-    <description>Recent content in Assiting tools on SEKB</description>
+    <description>Recent content in Assisting tools on SEKB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
@@ -81,10 +81,10 @@ GitHub pull request comments
     
     <item>
       <title>Docs: IDEs</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/assiting-tools/ides/</link>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/assisting-tools/ides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/assiting-tools/ides/</guid>
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/assisting-tools/ides/</guid>
       <description>
         
         
@@ -118,7 +118,7 @@ Visual Studio debugger
 &lt;/li&gt;
 &lt;li&gt;Version control:
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;hhttps://eclipse.dev/egit/&#34;&gt;
+&lt;li&gt;&lt;a href=&#34;https://eclipse.dev/egit/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
 Egit
 &lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;

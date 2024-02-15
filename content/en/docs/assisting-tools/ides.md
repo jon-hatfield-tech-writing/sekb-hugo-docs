@@ -1,6 +1,6 @@
 ---
 title: IDEs
-url: /articles/assiting-tools/ides
+url: /articles/assisting-tools/ides
 tags: [coding]
 ---
 
@@ -21,7 +21,7 @@ tags: [coding]
 * Debugging:
   * [Visual Studio debugger](https://learn.microsoft.com/en-us/visualstudio/debugger)
 * Version control:
-  * [Egit](hhttps://eclipse.dev/egit/)
+  * [Egit](https://eclipse.dev/egit/)
 
 ## See also
 

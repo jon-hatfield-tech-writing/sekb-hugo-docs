@@ -19,7 +19,7 @@ tags: [coding, web]
 * Unit testing:
   * [JUnit](https://junit.org/junit5/)
 * Mocks:
-  * [Mockito](https://site.mockito.org/)
+  * [Mockito](https://github.com/mockito/mockito)
 * Frontend testing:
   * [Selenium](https://www.selenium.dev/)
 

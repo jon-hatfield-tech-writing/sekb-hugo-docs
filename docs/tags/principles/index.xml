@@ -242,7 +242,7 @@ Amazon SQS
 &lt;li&gt;Resilience:
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://kafka.apache.org/documentation/#persistence&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-Kafka persisetence
+Kafka persistence
 &lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;

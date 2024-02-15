@@ -1,5 +1,5 @@
 ---
-title: Assiting tools
+title: Assisting tools
 url: /articles/assisting-tools
 ---
 

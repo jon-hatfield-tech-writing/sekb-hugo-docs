@@ -1518,10 +1518,10 @@ Neo4j
     
     <item>
       <title>Docs: IDEs</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/assiting-tools/ides/</link>
+      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/assisting-tools/ides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/assiting-tools/ides/</guid>
+      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/assisting-tools/ides/</guid>
       <description>
         
         
@@ -1555,7 +1555,7 @@ Visual Studio debugger
 &lt;/li&gt;
 &lt;li&gt;Version control:
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;hhttps://eclipse.dev/egit/&#34;&gt;
+&lt;li&gt;&lt;a href=&#34;https://eclipse.dev/egit/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
 Egit
 &lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -1724,7 +1724,7 @@ Amazon SQS
 &lt;li&gt;Resilience:
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://kafka.apache.org/documentation/#persistence&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-Kafka persisetence
+Kafka persistence
 &lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -2218,7 +2218,7 @@ GitHub
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/assiting-tools/ides/&#34; title=&#34;IDEs&#34;&gt;
+&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/assisting-tools/ides/&#34; title=&#34;IDEs&#34;&gt;
     IDEs
 &lt;/a&gt;
 &lt;/p&gt;
@@ -2433,7 +2433,7 @@ JUnit
 &lt;/li&gt;
 &lt;li&gt;Mocks:
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://site.mockito.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/mockito/mockito&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
 Mockito
 &lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;

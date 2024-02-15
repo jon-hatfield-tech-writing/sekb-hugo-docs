@@ -46,7 +46,7 @@ JUnit
 &lt;/li&gt;
 &lt;li&gt;Mocks:
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://site.mockito.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/mockito/mockito&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
 Mockito
 &lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
