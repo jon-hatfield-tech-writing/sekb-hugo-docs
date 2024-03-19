@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SEKB – Assisting tools</title>
-    <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/assisting-tools/</link>
+    <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/assisting-tools/</link>
     <description>Recent content in Assisting tools on SEKB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/assisting-tools/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://jabhatfield.github.io/sekb-hugo-docs/articles/assisting-tools/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Docs: Communication software</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/assisting-tools/communication-software/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/assisting-tools/communication-software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/assisting-tools/communication-software/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/assisting-tools/communication-software/</guid>
       <description>
         
         
@@ -61,17 +61,17 @@ GitHub pull request comments
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-tools/&#34; title=&#34;Agile tools&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-tools/&#34; title=&#34;Agile tools&#34;&gt;
     Agile tools
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/soft-skills/teamwork/&#34; title=&#34;Teamwork&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/soft-skills/teamwork/&#34; title=&#34;Teamwork&#34;&gt;
     Teamwork
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/soft-skills/tech-support/&#34; title=&#34;Tech support&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/soft-skills/tech-support/&#34; title=&#34;Tech support&#34;&gt;
     Tech support
 &lt;/a&gt;
 &lt;/p&gt;
@@ -81,10 +81,10 @@ GitHub pull request comments
     
     <item>
       <title>Docs: IDEs</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/assisting-tools/ides/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/assisting-tools/ides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/assisting-tools/ides/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/assisting-tools/ides/</guid>
       <description>
         
         
@@ -126,7 +126,7 @@ Egit
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/devops/system-administration/&#34; title=&#34;System administration&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/devops/system-administration/&#34; title=&#34;System administration&#34;&gt;
     System administration
 &lt;/a&gt;
 &lt;/p&gt;
@@ -136,10 +136,10 @@ Egit
     
     <item>
       <title>Docs: Project management software</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/assisting-tools/project-management-software/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/assisting-tools/project-management-software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/assisting-tools/project-management-software/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/assisting-tools/project-management-software/</guid>
       <description>
         
         
@@ -181,12 +181,12 @@ Trello
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-tools/&#34; title=&#34;Agile tools&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-tools/&#34; title=&#34;Agile tools&#34;&gt;
     Agile tools
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/soft-skills/management/&#34; title=&#34;Management&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/soft-skills/management/&#34; title=&#34;Management&#34;&gt;
     Management
 &lt;/a&gt;
 &lt;/p&gt;

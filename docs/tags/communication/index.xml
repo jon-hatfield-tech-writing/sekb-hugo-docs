@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SEKB – communication</title>
-    <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/tags/communication/</link>
+    <link>https://jabhatfield.github.io/sekb-hugo-docs/tags/communication/</link>
     <description>Recent content in communication on SEKB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/tags/communication/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://jabhatfield.github.io/sekb-hugo-docs/tags/communication/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Docs: Agile meetings</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/agile/agile-meetings/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/agile/agile-meetings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/agile/agile-meetings/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/agile/agile-meetings/</guid>
       <description>
         
         
@@ -61,7 +61,7 @@ Asana
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/soft-skills/teamwork/&#34; title=&#34;Teamwork&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/soft-skills/teamwork/&#34; title=&#34;Teamwork&#34;&gt;
     Teamwork
 &lt;/a&gt;
 &lt;/p&gt;
@@ -71,10 +71,10 @@ Asana
     
     <item>
       <title>Docs: Agile tools</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/agile/agile-tools/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/agile/agile-tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/agile/agile-tools/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/agile/agile-tools/</guid>
       <description>
         
         
@@ -116,12 +116,12 @@ Confluence
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/assisting-tools/communication-software/&#34; title=&#34;Communication software&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/assisting-tools/communication-software/&#34; title=&#34;Communication software&#34;&gt;
     Communication software
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/assisting-tools/project-management-software/&#34; title=&#34;Project management software&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/assisting-tools/project-management-software/&#34; title=&#34;Project management software&#34;&gt;
     Project management software
 &lt;/a&gt;
 &lt;/p&gt;
@@ -131,10 +131,10 @@ Confluence
     
     <item>
       <title>Docs: Communication software</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/assisting-tools/communication-software/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/assisting-tools/communication-software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/assisting-tools/communication-software/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/assisting-tools/communication-software/</guid>
       <description>
         
         
@@ -176,17 +176,17 @@ GitHub pull request comments
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-tools/&#34; title=&#34;Agile tools&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-tools/&#34; title=&#34;Agile tools&#34;&gt;
     Agile tools
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/soft-skills/teamwork/&#34; title=&#34;Teamwork&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/soft-skills/teamwork/&#34; title=&#34;Teamwork&#34;&gt;
     Teamwork
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/soft-skills/tech-support/&#34; title=&#34;Tech support&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/soft-skills/tech-support/&#34; title=&#34;Tech support&#34;&gt;
     Tech support
 &lt;/a&gt;
 &lt;/p&gt;
@@ -196,10 +196,10 @@ GitHub pull request comments
     
     <item>
       <title>Docs: Management</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/soft-skills/management/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/soft-skills/management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/soft-skills/management/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/soft-skills/management/</guid>
       <description>
         
         
@@ -241,17 +241,17 @@ Story points
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-processes/&#34; title=&#34;Agile processes&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-processes/&#34; title=&#34;Agile processes&#34;&gt;
     Agile processes
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-meetings/&#34; title=&#34;Agile meetings&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-meetings/&#34; title=&#34;Agile meetings&#34;&gt;
     Agile meetings
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/assisting-tools/project-management-software/&#34; title=&#34;Project management software&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/assisting-tools/project-management-software/&#34; title=&#34;Project management software&#34;&gt;
     Project management software
 &lt;/a&gt;
 &lt;/p&gt;
@@ -261,10 +261,10 @@ Story points
     
     <item>
       <title>Docs: Project management software</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/assisting-tools/project-management-software/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/assisting-tools/project-management-software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/assisting-tools/project-management-software/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/assisting-tools/project-management-software/</guid>
       <description>
         
         
@@ -306,12 +306,12 @@ Trello
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-tools/&#34; title=&#34;Agile tools&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-tools/&#34; title=&#34;Agile tools&#34;&gt;
     Agile tools
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/soft-skills/management/&#34; title=&#34;Management&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/soft-skills/management/&#34; title=&#34;Management&#34;&gt;
     Management
 &lt;/a&gt;
 &lt;/p&gt;
@@ -321,10 +321,10 @@ Trello
     
     <item>
       <title>Docs: Teamwork</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/soft-skills/teamwork/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/soft-skills/teamwork/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/soft-skills/teamwork/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/soft-skills/teamwork/</guid>
       <description>
         
         
@@ -366,12 +366,12 @@ Pair programming
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-processes/&#34; title=&#34;Agile processes&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-processes/&#34; title=&#34;Agile processes&#34;&gt;
     Agile processes
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-meetings/&#34; title=&#34;Agile meetings&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-meetings/&#34; title=&#34;Agile meetings&#34;&gt;
     Agile meetings
 &lt;/a&gt;
 &lt;/p&gt;
@@ -381,10 +381,10 @@ Pair programming
     
     <item>
       <title>Docs: Tech support</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/soft-skills/tech-support/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/soft-skills/tech-support/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/soft-skills/tech-support/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/soft-skills/tech-support/</guid>
       <description>
         
         
@@ -426,12 +426,12 @@ Google certification
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-processes/&#34; title=&#34;Agile processes&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-processes/&#34; title=&#34;Agile processes&#34;&gt;
     Agile processes
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/visualisation/logging/&#34; title=&#34;Logging&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/visualisation/logging/&#34; title=&#34;Logging&#34;&gt;
     Logging
 &lt;/a&gt;
 &lt;/p&gt;

@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SEKB – Soft skills</title>
-    <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/soft-skills/</link>
+    <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/soft-skills/</link>
     <description>Recent content in Soft skills on SEKB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/soft-skills/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://jabhatfield.github.io/sekb-hugo-docs/articles/soft-skills/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Docs: Management</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/soft-skills/management/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/soft-skills/management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/soft-skills/management/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/soft-skills/management/</guid>
       <description>
         
         
@@ -61,17 +61,17 @@ Story points
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-processes/&#34; title=&#34;Agile processes&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-processes/&#34; title=&#34;Agile processes&#34;&gt;
     Agile processes
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-meetings/&#34; title=&#34;Agile meetings&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-meetings/&#34; title=&#34;Agile meetings&#34;&gt;
     Agile meetings
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/assisting-tools/project-management-software/&#34; title=&#34;Project management software&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/assisting-tools/project-management-software/&#34; title=&#34;Project management software&#34;&gt;
     Project management software
 &lt;/a&gt;
 &lt;/p&gt;
@@ -81,10 +81,10 @@ Story points
     
     <item>
       <title>Docs: Teamwork</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/soft-skills/teamwork/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/soft-skills/teamwork/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/soft-skills/teamwork/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/soft-skills/teamwork/</guid>
       <description>
         
         
@@ -126,12 +126,12 @@ Pair programming
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-processes/&#34; title=&#34;Agile processes&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-processes/&#34; title=&#34;Agile processes&#34;&gt;
     Agile processes
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-meetings/&#34; title=&#34;Agile meetings&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-meetings/&#34; title=&#34;Agile meetings&#34;&gt;
     Agile meetings
 &lt;/a&gt;
 &lt;/p&gt;
@@ -141,10 +141,10 @@ Pair programming
     
     <item>
       <title>Docs: Tech support</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/soft-skills/tech-support/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/soft-skills/tech-support/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/soft-skills/tech-support/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/soft-skills/tech-support/</guid>
       <description>
         
         
@@ -186,12 +186,12 @@ Google certification
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-processes/&#34; title=&#34;Agile processes&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-processes/&#34; title=&#34;Agile processes&#34;&gt;
     Agile processes
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/visualisation/logging/&#34; title=&#34;Logging&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/visualisation/logging/&#34; title=&#34;Logging&#34;&gt;
     Logging
 &lt;/a&gt;
 &lt;/p&gt;
