@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SEKB – documentation</title>
-    <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/tags/documentation/</link>
+    <link>https://jabhatfield.github.io/sekb-hugo-docs/tags/documentation/</link>
     <description>Recent content in documentation on SEKB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/tags/documentation/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://jabhatfield.github.io/sekb-hugo-docs/tags/documentation/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Docs: Agile tools</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/agile/agile-tools/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/agile/agile-tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/agile/agile-tools/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/agile/agile-tools/</guid>
       <description>
         
         
@@ -61,12 +61,12 @@ Confluence
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/assisting-tools/communication-software/&#34; title=&#34;Communication software&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/assisting-tools/communication-software/&#34; title=&#34;Communication software&#34;&gt;
     Communication software
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/assisting-tools/project-management-software/&#34; title=&#34;Project management software&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/assisting-tools/project-management-software/&#34; title=&#34;Project management software&#34;&gt;
     Project management software
 &lt;/a&gt;
 &lt;/p&gt;
@@ -76,10 +76,10 @@ Confluence
     
     <item>
       <title>Docs: API documentation</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/apis/api-documentation/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/apis/api-documentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/apis/api-documentation/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/apis/api-documentation/</guid>
       <description>
         
         
@@ -121,7 +121,7 @@ GitHub authentication
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/design/system-documentation/&#34; title=&#34;System documentation&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/design/system-documentation/&#34; title=&#34;System documentation&#34;&gt;
     System documentation
 &lt;/a&gt;
 &lt;/p&gt;
@@ -131,10 +131,10 @@ GitHub authentication
     
     <item>
       <title>Docs: Project management software</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/assisting-tools/project-management-software/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/assisting-tools/project-management-software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/assisting-tools/project-management-software/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/assisting-tools/project-management-software/</guid>
       <description>
         
         
@@ -176,12 +176,12 @@ Trello
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-tools/&#34; title=&#34;Agile tools&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-tools/&#34; title=&#34;Agile tools&#34;&gt;
     Agile tools
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/soft-skills/management/&#34; title=&#34;Management&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/soft-skills/management/&#34; title=&#34;Management&#34;&gt;
     Management
 &lt;/a&gt;
 &lt;/p&gt;
@@ -191,10 +191,10 @@ Trello
     
     <item>
       <title>Docs: Supplementary languages</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/languages/supplementary-languages/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/languages/supplementary-languages/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/languages/supplementary-languages/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/languages/supplementary-languages/</guid>
       <description>
         
         
@@ -236,7 +236,7 @@ Markdown
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/design/system-documentation/&#34; title=&#34;System documentation&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/design/system-documentation/&#34; title=&#34;System documentation&#34;&gt;
     System documentation
 &lt;/a&gt;
 &lt;/p&gt;
@@ -246,10 +246,10 @@ Markdown
     
     <item>
       <title>Docs: System documentation</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/design/system-documentation/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/design/system-documentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/design/system-documentation/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/design/system-documentation/</guid>
       <description>
         
         
@@ -291,7 +291,7 @@ Antora
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/apis/api-documentation/&#34; title=&#34;API documentation&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/apis/api-documentation/&#34; title=&#34;API documentation&#34;&gt;
     API documentation
 &lt;/a&gt;
 &lt;/p&gt;

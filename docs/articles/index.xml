@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SEKB – Articles</title>
-    <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/</link>
+    <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/</link>
     <description>Recent content in Articles on SEKB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://jabhatfield.github.io/sekb-hugo-docs/articles/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Docs: Agile meetings</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/agile/agile-meetings/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/agile/agile-meetings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/agile/agile-meetings/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/agile/agile-meetings/</guid>
       <description>
         
         
@@ -61,7 +61,7 @@ Asana
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/soft-skills/teamwork/&#34; title=&#34;Teamwork&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/soft-skills/teamwork/&#34; title=&#34;Teamwork&#34;&gt;
     Teamwork
 &lt;/a&gt;
 &lt;/p&gt;
@@ -71,10 +71,10 @@ Asana
     
     <item>
       <title>Docs: Agile processes</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/agile/agile-processes/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/agile/agile-processes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/agile/agile-processes/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/agile/agile-processes/</guid>
       <description>
         
         
@@ -116,12 +116,12 @@ Extreme Programming
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/soft-skills/management/&#34; title=&#34;Management&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/soft-skills/management/&#34; title=&#34;Management&#34;&gt;
     Management
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/soft-skills/tech-support/&#34; title=&#34;Tech support&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/soft-skills/tech-support/&#34; title=&#34;Tech support&#34;&gt;
     Tech support
 &lt;/a&gt;
 &lt;/p&gt;
@@ -131,10 +131,10 @@ Extreme Programming
     
     <item>
       <title>Docs: Agile tools</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/agile/agile-tools/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/agile/agile-tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/agile/agile-tools/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/agile/agile-tools/</guid>
       <description>
         
         
@@ -176,12 +176,12 @@ Confluence
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/assisting-tools/communication-software/&#34; title=&#34;Communication software&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/assisting-tools/communication-software/&#34; title=&#34;Communication software&#34;&gt;
     Communication software
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/assisting-tools/project-management-software/&#34; title=&#34;Project management software&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/assisting-tools/project-management-software/&#34; title=&#34;Project management software&#34;&gt;
     Project management software
 &lt;/a&gt;
 &lt;/p&gt;
@@ -191,10 +191,10 @@ Confluence
     
     <item>
       <title>Docs: API design</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/apis/api-design/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/apis/api-design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/apis/api-design/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/apis/api-design/</guid>
       <description>
         
         
@@ -236,17 +236,17 @@ Google naming conventions
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/api-integrations/&#34; title=&#34;API integrations&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/api-integrations/&#34; title=&#34;API integrations&#34;&gt;
     API integrations
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/security/api-security/&#34; title=&#34;API security&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/security/api-security/&#34; title=&#34;API security&#34;&gt;
     API security
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/visualisation/monitoring/&#34; title=&#34;Monitoring&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/visualisation/monitoring/&#34; title=&#34;Monitoring&#34;&gt;
     Monitoring
 &lt;/a&gt;
 &lt;/p&gt;
@@ -256,10 +256,10 @@ Google naming conventions
     
     <item>
       <title>Docs: API documentation</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/apis/api-documentation/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/apis/api-documentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/apis/api-documentation/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/apis/api-documentation/</guid>
       <description>
         
         
@@ -301,7 +301,7 @@ GitHub authentication
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/design/system-documentation/&#34; title=&#34;System documentation&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/design/system-documentation/&#34; title=&#34;System documentation&#34;&gt;
     System documentation
 &lt;/a&gt;
 &lt;/p&gt;
@@ -311,10 +311,10 @@ GitHub authentication
     
     <item>
       <title>Docs: API implementation</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/apis/api-implementation/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/apis/api-implementation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/apis/api-implementation/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/apis/api-implementation/</guid>
       <description>
         
         
@@ -356,17 +356,17 @@ OpenFeign timeout handling
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/api-integrations/&#34; title=&#34;API integrations&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/api-integrations/&#34; title=&#34;API integrations&#34;&gt;
     API integrations
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/security/api-security/&#34; title=&#34;API security&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/security/api-security/&#34; title=&#34;API security&#34;&gt;
     API security
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/visualisation/monitoring/&#34; title=&#34;Monitoring&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/visualisation/monitoring/&#34; title=&#34;Monitoring&#34;&gt;
     Monitoring
 &lt;/a&gt;
 &lt;/p&gt;
@@ -376,10 +376,10 @@ OpenFeign timeout handling
     
     <item>
       <title>Docs: API integrations</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/integrations/api-integrations/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/integrations/api-integrations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/integrations/api-integrations/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/integrations/api-integrations/</guid>
       <description>
         
         
@@ -421,17 +421,17 @@ Python requests
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/apis/api-design/&#34; title=&#34;API design&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/apis/api-design/&#34; title=&#34;API design&#34;&gt;
     API design
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/apis/api-implementation/&#34; title=&#34;API implementation&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/apis/api-implementation/&#34; title=&#34;API implementation&#34;&gt;
     API implementation
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/security/api-security/&#34; title=&#34;API security&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/security/api-security/&#34; title=&#34;API security&#34;&gt;
     API security
 &lt;/a&gt;
 &lt;/p&gt;
@@ -441,10 +441,10 @@ Python requests
     
     <item>
       <title>Docs: API security</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/security/api-security/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/security/api-security/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/security/api-security/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/security/api-security/</guid>
       <description>
         
         
@@ -486,17 +486,17 @@ Kong API gateway
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/apis/api-design/&#34; title=&#34;API design&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/apis/api-design/&#34; title=&#34;API design&#34;&gt;
     API design
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/apis/api-implementation/&#34; title=&#34;API implementation&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/apis/api-implementation/&#34; title=&#34;API implementation&#34;&gt;
     API implementation
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/api-integrations/&#34; title=&#34;API integrations&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/api-integrations/&#34; title=&#34;API integrations&#34;&gt;
     API integrations
 &lt;/a&gt;
 &lt;/p&gt;
@@ -506,10 +506,10 @@ Kong API gateway
     
     <item>
       <title>Docs: Application frameworks</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/frameworks/application-frameworks/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/frameworks/application-frameworks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/frameworks/application-frameworks/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/frameworks/application-frameworks/</guid>
       <description>
         
         
@@ -551,7 +551,7 @@ Django
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/apis/api-implementation/&#34; title=&#34;API implementation&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/apis/api-implementation/&#34; title=&#34;API implementation&#34;&gt;
     API implementation
 &lt;/a&gt;
 &lt;/p&gt;
@@ -561,10 +561,10 @@ Django
     
     <item>
       <title>Docs: Architecture</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/design/architecture/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/design/architecture/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/design/architecture/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/design/architecture/</guid>
       <description>
         
         
@@ -606,22 +606,22 @@ Microservices
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/apis/api-design/&#34; title=&#34;API design&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/apis/api-design/&#34; title=&#34;API design&#34;&gt;
     API design
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/api-integrations/&#34; title=&#34;API integrations&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/api-integrations/&#34; title=&#34;API integrations&#34;&gt;
     API integrations
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/data-integrations/&#34; title=&#34;Data integrations&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/data-integrations/&#34; title=&#34;Data integrations&#34;&gt;
     Data integrations
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/messaging-systems/&#34; title=&#34;Messaging systems&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/messaging-systems/&#34; title=&#34;Messaging systems&#34;&gt;
     Messaging systems
 &lt;/a&gt;
 &lt;/p&gt;
@@ -631,10 +631,10 @@ Microservices
     
     <item>
       <title>Docs: CI/CD</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/devops/cicd/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/devops/cicd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/devops/cicd/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/devops/cicd/</guid>
       <description>
         
         
@@ -676,12 +676,12 @@ GitHub Actions
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-deployment/&#34; title=&#34;Cloud deployment&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-deployment/&#34; title=&#34;Cloud deployment&#34;&gt;
     Cloud deployment
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-management/&#34; title=&#34;Cloud management&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-management/&#34; title=&#34;Cloud management&#34;&gt;
     Cloud management
 &lt;/a&gt;
 &lt;/p&gt;
@@ -691,10 +691,10 @@ GitHub Actions
     
     <item>
       <title>Docs: Cloud deployment</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/cloud-services/cloud-deployment/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/cloud-services/cloud-deployment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/cloud-services/cloud-deployment/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/cloud-services/cloud-deployment/</guid>
       <description>
         
         
@@ -736,17 +736,17 @@ Amazon EKS
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/devops/cicd/&#34; title=&#34;CI/CD&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/devops/cicd/&#34; title=&#34;CI/CD&#34;&gt;
     CI/CD
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/devops/containerisation/&#34; title=&#34;Containerisation&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/devops/containerisation/&#34; title=&#34;Containerisation&#34;&gt;
     Containerisation
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/devops/system-administration/&#34; title=&#34;System administration&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/devops/system-administration/&#34; title=&#34;System administration&#34;&gt;
     System administration
 &lt;/a&gt;
 &lt;/p&gt;
@@ -756,10 +756,10 @@ Amazon EKS
     
     <item>
       <title>Docs: Cloud management</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/cloud-services/cloud-management/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/cloud-services/cloud-management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/cloud-services/cloud-management/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/cloud-services/cloud-management/</guid>
       <description>
         
         
@@ -801,17 +801,17 @@ gcloud CLI
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/devops/cicd/&#34; title=&#34;CI/CD&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/devops/cicd/&#34; title=&#34;CI/CD&#34;&gt;
     CI/CD
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/devops/containerisation/&#34; title=&#34;Containerisation&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/devops/containerisation/&#34; title=&#34;Containerisation&#34;&gt;
     Containerisation
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/devops/system-administration/&#34; title=&#34;System administration&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/devops/system-administration/&#34; title=&#34;System administration&#34;&gt;
     System administration
 &lt;/a&gt;
 &lt;/p&gt;
@@ -821,10 +821,10 @@ gcloud CLI
     
     <item>
       <title>Docs: Cloud storage</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/cloud-services/cloud-storage/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/cloud-services/cloud-storage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/cloud-services/cloud-storage/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/cloud-services/cloud-storage/</guid>
       <description>
         
         
@@ -866,17 +866,17 @@ Amazon DynamoDB
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/graph-databases/&#34; title=&#34;Graph databases&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/graph-databases/&#34; title=&#34;Graph databases&#34;&gt;
     Graph databases
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/nosql/&#34; title=&#34;NoSQL&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/nosql/&#34; title=&#34;NoSQL&#34;&gt;
     NoSQL
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/sql/&#34; title=&#34;SQL&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/sql/&#34; title=&#34;SQL&#34;&gt;
     SQL
 &lt;/a&gt;
 &lt;/p&gt;
@@ -886,10 +886,10 @@ Amazon DynamoDB
     
     <item>
       <title>Docs: Communication software</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/assisting-tools/communication-software/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/assisting-tools/communication-software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/assisting-tools/communication-software/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/assisting-tools/communication-software/</guid>
       <description>
         
         
@@ -931,17 +931,17 @@ GitHub pull request comments
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-tools/&#34; title=&#34;Agile tools&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-tools/&#34; title=&#34;Agile tools&#34;&gt;
     Agile tools
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/soft-skills/teamwork/&#34; title=&#34;Teamwork&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/soft-skills/teamwork/&#34; title=&#34;Teamwork&#34;&gt;
     Teamwork
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/soft-skills/tech-support/&#34; title=&#34;Tech support&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/soft-skills/tech-support/&#34; title=&#34;Tech support&#34;&gt;
     Tech support
 &lt;/a&gt;
 &lt;/p&gt;
@@ -951,10 +951,10 @@ GitHub pull request comments
     
     <item>
       <title>Docs: Containerisation</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/devops/containerisation/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/devops/containerisation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/devops/containerisation/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/devops/containerisation/</guid>
       <description>
         
         
@@ -996,12 +996,12 @@ Helm
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-deployment/&#34; title=&#34;Cloud deployment&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-deployment/&#34; title=&#34;Cloud deployment&#34;&gt;
     Cloud deployment
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-management/&#34; title=&#34;Cloud management&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-management/&#34; title=&#34;Cloud management&#34;&gt;
     Cloud management
 &lt;/a&gt;
 &lt;/p&gt;
@@ -1011,10 +1011,10 @@ Helm
     
     <item>
       <title>Docs: Core languages</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/languages/core-languages/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/languages/core-languages/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/languages/core-languages/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/languages/core-languages/</guid>
       <description>
         
         
@@ -1056,7 +1056,7 @@ Python memory management
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/design/design-patterns/&#34; title=&#34;Design patterns&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/design/design-patterns/&#34; title=&#34;Design patterns&#34;&gt;
     Design patterns
 &lt;/a&gt;
 &lt;/p&gt;
@@ -1066,10 +1066,10 @@ Python memory management
     
     <item>
       <title>Docs: Data integrations</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/integrations/data-integrations/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/integrations/data-integrations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/integrations/data-integrations/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/integrations/data-integrations/</guid>
       <description>
         
         
@@ -1111,17 +1111,17 @@ MariaDB replication
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/graph-databases/&#34; title=&#34;Graph databases&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/graph-databases/&#34; title=&#34;Graph databases&#34;&gt;
     Graph databases
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/nosql/&#34; title=&#34;NoSQL&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/nosql/&#34; title=&#34;NoSQL&#34;&gt;
     NoSQL
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/sql/&#34; title=&#34;SQL&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/sql/&#34; title=&#34;SQL&#34;&gt;
     SQL
 &lt;/a&gt;
 &lt;/p&gt;
@@ -1131,10 +1131,10 @@ MariaDB replication
     
     <item>
       <title>Docs: Data security</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/security/data-security/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/security/data-security/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/security/data-security/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/security/data-security/</guid>
       <description>
         
         
@@ -1176,22 +1176,22 @@ MySQL roles
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/data-integrations/&#34; title=&#34;Data integrations&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/data-integrations/&#34; title=&#34;Data integrations&#34;&gt;
     Data integrations
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/graph-databases/&#34; title=&#34;Graph databases&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/graph-databases/&#34; title=&#34;Graph databases&#34;&gt;
     Graph databases
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/nosql/&#34; title=&#34;NoSQL&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/nosql/&#34; title=&#34;NoSQL&#34;&gt;
     NoSQL
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/sql/&#34; title=&#34;SQL&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/sql/&#34; title=&#34;SQL&#34;&gt;
     SQL
 &lt;/a&gt;
 &lt;/p&gt;
@@ -1201,10 +1201,10 @@ MySQL roles
     
     <item>
       <title>Docs: Database frameworks</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/frameworks/database-frameworks/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/frameworks/database-frameworks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/frameworks/database-frameworks/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/frameworks/database-frameworks/</guid>
       <description>
         
         
@@ -1246,17 +1246,17 @@ SQLAlchemy
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/graph-databases/&#34; title=&#34;Graph databases&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/graph-databases/&#34; title=&#34;Graph databases&#34;&gt;
     Graph databases
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/nosql/&#34; title=&#34;NoSQL&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/nosql/&#34; title=&#34;NoSQL&#34;&gt;
     NoSQL
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/sql/&#34; title=&#34;SQL&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/data/sql/&#34; title=&#34;SQL&#34;&gt;
     SQL
 &lt;/a&gt;
 &lt;/p&gt;
@@ -1266,10 +1266,10 @@ SQLAlchemy
     
     <item>
       <title>Docs: Design patterns</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/design/design-patterns/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/design/design-patterns/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/design/design-patterns/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/design/design-patterns/</guid>
       <description>
         
         
@@ -1311,22 +1311,22 @@ Single responsibility principle
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/apis/api-design/&#34; title=&#34;API design&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/apis/api-design/&#34; title=&#34;API design&#34;&gt;
     API design
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/api-integrations/&#34; title=&#34;API integrations&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/api-integrations/&#34; title=&#34;API integrations&#34;&gt;
     API integrations
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/data-integrations/&#34; title=&#34;Data integrations&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/data-integrations/&#34; title=&#34;Data integrations&#34;&gt;
     Data integrations
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/messaging-systems/&#34; title=&#34;Messaging systems&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/messaging-systems/&#34; title=&#34;Messaging systems&#34;&gt;
     Messaging systems
 &lt;/a&gt;
 &lt;/p&gt;
@@ -1336,10 +1336,10 @@ Single responsibility principle
     
     <item>
       <title>Docs: Frontend frameworks</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/frameworks/frontend-frameworks/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/frameworks/frontend-frameworks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/frameworks/frontend-frameworks/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/frameworks/frontend-frameworks/</guid>
       <description>
         
         
@@ -1381,7 +1381,7 @@ jQuery carousel
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/languages/full-stack-development/&#34; title=&#34;Full stack development&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/languages/full-stack-development/&#34; title=&#34;Full stack development&#34;&gt;
     Full stack development
 &lt;/a&gt;
 &lt;/p&gt;
@@ -1391,10 +1391,10 @@ jQuery carousel
     
     <item>
       <title>Docs: Full stack development</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/languages/full-stack-development/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/languages/full-stack-development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/languages/full-stack-development/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/languages/full-stack-development/</guid>
       <description>
         
         
@@ -1438,7 +1438,7 @@ Operating system developer
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/frameworks/frontend-frameworks/&#34; title=&#34;Frontend frameworks&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/frameworks/frontend-frameworks/&#34; title=&#34;Frontend frameworks&#34;&gt;
     Frontend frameworks
 &lt;/a&gt;
 &lt;/p&gt;
@@ -1448,10 +1448,10 @@ Operating system developer
     
     <item>
       <title>Docs: Graph databases</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/data/graph-databases/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/data/graph-databases/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/data/graph-databases/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/data/graph-databases/</guid>
       <description>
         
         
@@ -1493,22 +1493,22 @@ Neo4j
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-storage/&#34; title=&#34;Cloud storage&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-storage/&#34; title=&#34;Cloud storage&#34;&gt;
     Cloud storage
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/data-integrations/&#34; title=&#34;Data integrations&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/data-integrations/&#34; title=&#34;Data integrations&#34;&gt;
     Data integrations
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/security/data-security/&#34; title=&#34;Data security&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/security/data-security/&#34; title=&#34;Data security&#34;&gt;
     Data security
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/frameworks/database-frameworks/&#34; title=&#34;Database frameworks&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/frameworks/database-frameworks/&#34; title=&#34;Database frameworks&#34;&gt;
     Database frameworks
 &lt;/a&gt;
 &lt;/p&gt;
@@ -1518,10 +1518,10 @@ Neo4j
     
     <item>
       <title>Docs: IDEs</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/assisting-tools/ides/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/assisting-tools/ides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/assisting-tools/ides/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/assisting-tools/ides/</guid>
       <description>
         
         
@@ -1563,7 +1563,7 @@ Egit
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/devops/system-administration/&#34; title=&#34;System administration&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/devops/system-administration/&#34; title=&#34;System administration&#34;&gt;
     System administration
 &lt;/a&gt;
 &lt;/p&gt;
@@ -1573,10 +1573,10 @@ Egit
     
     <item>
       <title>Docs: Logging</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/visualisation/logging/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/visualisation/logging/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/visualisation/logging/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/visualisation/logging/</guid>
       <description>
         
         
@@ -1618,7 +1618,7 @@ Spring Cloud Sleuth
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/soft-skills/tech-support/&#34; title=&#34;Tech support&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/soft-skills/tech-support/&#34; title=&#34;Tech support&#34;&gt;
     Tech support
 &lt;/a&gt;
 &lt;/p&gt;
@@ -1628,10 +1628,10 @@ Spring Cloud Sleuth
     
     <item>
       <title>Docs: Management</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/soft-skills/management/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/soft-skills/management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/soft-skills/management/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/soft-skills/management/</guid>
       <description>
         
         
@@ -1673,17 +1673,17 @@ Story points
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-processes/&#34; title=&#34;Agile processes&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-processes/&#34; title=&#34;Agile processes&#34;&gt;
     Agile processes
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-meetings/&#34; title=&#34;Agile meetings&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-meetings/&#34; title=&#34;Agile meetings&#34;&gt;
     Agile meetings
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/assisting-tools/project-management-software/&#34; title=&#34;Project management software&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/assisting-tools/project-management-software/&#34; title=&#34;Project management software&#34;&gt;
     Project management software
 &lt;/a&gt;
 &lt;/p&gt;
@@ -1693,10 +1693,10 @@ Story points
     
     <item>
       <title>Docs: Messaging systems</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/integrations/messaging-systems/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/integrations/messaging-systems/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/integrations/messaging-systems/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/integrations/messaging-systems/</guid>
       <description>
         
         
@@ -1738,7 +1738,7 @@ Amazon Auto Scaling
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/design/architecture/&#34; title=&#34;Architecture&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/design/architecture/&#34; title=&#34;Architecture&#34;&gt;
     Architecture
 &lt;/a&gt;
 &lt;/p&gt;
@@ -1748,10 +1748,10 @@ Amazon Auto Scaling
     
     <item>
       <title>Docs: Monitoring</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/visualisation/monitoring/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/visualisation/monitoring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/visualisation/monitoring/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/visualisation/monitoring/</guid>
       <description>
         
         
@@ -1793,7 +1793,7 @@ Kubernetes liveness probes
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/api-integrations/&#34; title=&#34;API integrations&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/api-integrations/&#34; title=&#34;API integrations&#34;&gt;
     API integrations
 &lt;/a&gt;
 &lt;/p&gt;
@@ -1803,10 +1803,10 @@ Kubernetes liveness probes
     
     <item>
       <title>Docs: Network security</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/security/network-security/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/security/network-security/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/security/network-security/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/security/network-security/</guid>
       <description>
         
         
@@ -1848,7 +1848,7 @@ Google Cloud Firewall
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-management/&#34; title=&#34;Cloud management&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-management/&#34; title=&#34;Cloud management&#34;&gt;
     Cloud management
 &lt;/a&gt;
 &lt;/p&gt;
@@ -1858,10 +1858,10 @@ Google Cloud Firewall
     
     <item>
       <title>Docs: NoSQL</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/data/nosql/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/data/nosql/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/data/nosql/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/data/nosql/</guid>
       <description>
         
         
@@ -1903,22 +1903,22 @@ MongoDB
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-storage/&#34; title=&#34;Cloud storage&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-storage/&#34; title=&#34;Cloud storage&#34;&gt;
     Cloud storage
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/data-integrations/&#34; title=&#34;Data integrations&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/data-integrations/&#34; title=&#34;Data integrations&#34;&gt;
     Data integrations
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/security/data-security/&#34; title=&#34;Data security&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/security/data-security/&#34; title=&#34;Data security&#34;&gt;
     Data security
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/frameworks/database-frameworks/&#34; title=&#34;Database frameworks&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/frameworks/database-frameworks/&#34; title=&#34;Database frameworks&#34;&gt;
     Database frameworks
 &lt;/a&gt;
 &lt;/p&gt;
@@ -1928,10 +1928,10 @@ MongoDB
     
     <item>
       <title>Docs: Project management software</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/assisting-tools/project-management-software/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/assisting-tools/project-management-software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/assisting-tools/project-management-software/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/assisting-tools/project-management-software/</guid>
       <description>
         
         
@@ -1973,12 +1973,12 @@ Trello
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-tools/&#34; title=&#34;Agile tools&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-tools/&#34; title=&#34;Agile tools&#34;&gt;
     Agile tools
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/soft-skills/management/&#34; title=&#34;Management&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/soft-skills/management/&#34; title=&#34;Management&#34;&gt;
     Management
 &lt;/a&gt;
 &lt;/p&gt;
@@ -1988,10 +1988,10 @@ Trello
     
     <item>
       <title>Docs: Reporting</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/visualisation/reporting/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/visualisation/reporting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/visualisation/reporting/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/visualisation/reporting/</guid>
       <description>
         
         
@@ -2033,12 +2033,12 @@ PL/SQL
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/data-integrations/&#34; title=&#34;Data integrations&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/data-integrations/&#34; title=&#34;Data integrations&#34;&gt;
     Data integrations
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/soft-skills/tech-support/&#34; title=&#34;Tech support&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/soft-skills/tech-support/&#34; title=&#34;Tech support&#34;&gt;
     Tech support
 &lt;/a&gt;
 &lt;/p&gt;
@@ -2048,10 +2048,10 @@ PL/SQL
     
     <item>
       <title>Docs: SQL</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/data/sql/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/data/sql/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/data/sql/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/data/sql/</guid>
       <description>
         
         
@@ -2093,22 +2093,22 @@ MariaDB
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-storage/&#34; title=&#34;Cloud storage&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-storage/&#34; title=&#34;Cloud storage&#34;&gt;
     Cloud storage
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/data-integrations/&#34; title=&#34;Data integrations&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/data-integrations/&#34; title=&#34;Data integrations&#34;&gt;
     Data integrations
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/security/data-security/&#34; title=&#34;Data security&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/security/data-security/&#34; title=&#34;Data security&#34;&gt;
     Data security
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/frameworks/database-frameworks/&#34; title=&#34;Database frameworks&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/frameworks/database-frameworks/&#34; title=&#34;Database frameworks&#34;&gt;
     Database frameworks
 &lt;/a&gt;
 &lt;/p&gt;
@@ -2118,10 +2118,10 @@ MariaDB
     
     <item>
       <title>Docs: Supplementary languages</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/languages/supplementary-languages/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/languages/supplementary-languages/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/languages/supplementary-languages/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/languages/supplementary-languages/</guid>
       <description>
         
         
@@ -2163,7 +2163,7 @@ Markdown
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/design/system-documentation/&#34; title=&#34;System documentation&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/design/system-documentation/&#34; title=&#34;System documentation&#34;&gt;
     System documentation
 &lt;/a&gt;
 &lt;/p&gt;
@@ -2173,10 +2173,10 @@ Markdown
     
     <item>
       <title>Docs: System administration</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/devops/system-administration/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/devops/system-administration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/devops/system-administration/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/devops/system-administration/</guid>
       <description>
         
         
@@ -2218,7 +2218,7 @@ GitHub
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/assisting-tools/ides/&#34; title=&#34;IDEs&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/assisting-tools/ides/&#34; title=&#34;IDEs&#34;&gt;
     IDEs
 &lt;/a&gt;
 &lt;/p&gt;
@@ -2228,10 +2228,10 @@ GitHub
     
     <item>
       <title>Docs: System documentation</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/design/system-documentation/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/design/system-documentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/design/system-documentation/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/design/system-documentation/</guid>
       <description>
         
         
@@ -2273,7 +2273,7 @@ Antora
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/apis/api-documentation/&#34; title=&#34;API documentation&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/apis/api-documentation/&#34; title=&#34;API documentation&#34;&gt;
     API documentation
 &lt;/a&gt;
 &lt;/p&gt;
@@ -2283,10 +2283,10 @@ Antora
     
     <item>
       <title>Docs: Teamwork</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/soft-skills/teamwork/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/soft-skills/teamwork/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/soft-skills/teamwork/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/soft-skills/teamwork/</guid>
       <description>
         
         
@@ -2328,12 +2328,12 @@ Pair programming
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-processes/&#34; title=&#34;Agile processes&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-processes/&#34; title=&#34;Agile processes&#34;&gt;
     Agile processes
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-meetings/&#34; title=&#34;Agile meetings&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-meetings/&#34; title=&#34;Agile meetings&#34;&gt;
     Agile meetings
 &lt;/a&gt;
 &lt;/p&gt;
@@ -2343,10 +2343,10 @@ Pair programming
     
     <item>
       <title>Docs: Tech support</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/soft-skills/tech-support/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/soft-skills/tech-support/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/soft-skills/tech-support/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/soft-skills/tech-support/</guid>
       <description>
         
         
@@ -2388,12 +2388,12 @@ Google certification
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-processes/&#34; title=&#34;Agile processes&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-processes/&#34; title=&#34;Agile processes&#34;&gt;
     Agile processes
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/visualisation/logging/&#34; title=&#34;Logging&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/visualisation/logging/&#34; title=&#34;Logging&#34;&gt;
     Logging
 &lt;/a&gt;
 &lt;/p&gt;
@@ -2403,10 +2403,10 @@ Google certification
     
     <item>
       <title>Docs: Test frameworks</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/testing/test-frameworks/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/testing/test-frameworks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/testing/test-frameworks/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/testing/test-frameworks/</guid>
       <description>
         
         
@@ -2448,22 +2448,22 @@ Selenium
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/frameworks/application-frameworks/&#34; title=&#34;Application frameworks&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/frameworks/application-frameworks/&#34; title=&#34;Application frameworks&#34;&gt;
     Application frameworks
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/frameworks/database-frameworks/&#34; title=&#34;Database frameworks&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/frameworks/database-frameworks/&#34; title=&#34;Database frameworks&#34;&gt;
     Database frameworks
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/frameworks/frontend-frameworks/&#34; title=&#34;Frontend frameworks&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/frameworks/frontend-frameworks/&#34; title=&#34;Frontend frameworks&#34;&gt;
     Frontend frameworks
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/languages/full-stack-development/&#34; title=&#34;Full stack development&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/languages/full-stack-development/&#34; title=&#34;Full stack development&#34;&gt;
     Full stack development
 &lt;/a&gt;
 &lt;/p&gt;
@@ -2473,10 +2473,10 @@ Selenium
     
     <item>
       <title>Docs: Test principles</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/testing/test-principles/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/testing/test-principles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/testing/test-principles/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/testing/test-principles/</guid>
       <description>
         
         
@@ -2518,7 +2518,7 @@ Test pyramid
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-processes/&#34; title=&#34;Agile processes&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-processes/&#34; title=&#34;Agile processes&#34;&gt;
     Agile processes
 &lt;/a&gt;
 &lt;/p&gt;
@@ -2528,10 +2528,10 @@ Test pyramid
     
     <item>
       <title>Docs: Testing tools</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/testing/testing-tools/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/testing/testing-tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/testing/testing-tools/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/testing/testing-tools/</guid>
       <description>
         
         
@@ -2573,12 +2573,12 @@ Staging
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/devops/cicd/&#34; title=&#34;CI/CD&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/devops/cicd/&#34; title=&#34;CI/CD&#34;&gt;
     CI/CD
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-deployment/&#34; title=&#34;Cloud deployment&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-deployment/&#34; title=&#34;Cloud deployment&#34;&gt;
     Cloud deployment
 &lt;/a&gt;
 &lt;/p&gt;

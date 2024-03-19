@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SEKB – principles</title>
-    <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/tags/principles/</link>
+    <link>https://jabhatfield.github.io/sekb-hugo-docs/tags/principles/</link>
     <description>Recent content in principles on SEKB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/tags/principles/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://jabhatfield.github.io/sekb-hugo-docs/tags/principles/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Docs: Application frameworks</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/frameworks/application-frameworks/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/frameworks/application-frameworks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/frameworks/application-frameworks/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/frameworks/application-frameworks/</guid>
       <description>
         
         
@@ -61,7 +61,7 @@ Django
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/apis/api-implementation/&#34; title=&#34;API implementation&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/apis/api-implementation/&#34; title=&#34;API implementation&#34;&gt;
     API implementation
 &lt;/a&gt;
 &lt;/p&gt;
@@ -71,10 +71,10 @@ Django
     
     <item>
       <title>Docs: Architecture</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/design/architecture/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/design/architecture/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/design/architecture/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/design/architecture/</guid>
       <description>
         
         
@@ -116,22 +116,22 @@ Microservices
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/apis/api-design/&#34; title=&#34;API design&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/apis/api-design/&#34; title=&#34;API design&#34;&gt;
     API design
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/api-integrations/&#34; title=&#34;API integrations&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/api-integrations/&#34; title=&#34;API integrations&#34;&gt;
     API integrations
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/data-integrations/&#34; title=&#34;Data integrations&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/data-integrations/&#34; title=&#34;Data integrations&#34;&gt;
     Data integrations
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/messaging-systems/&#34; title=&#34;Messaging systems&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/messaging-systems/&#34; title=&#34;Messaging systems&#34;&gt;
     Messaging systems
 &lt;/a&gt;
 &lt;/p&gt;
@@ -141,10 +141,10 @@ Microservices
     
     <item>
       <title>Docs: Design patterns</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/design/design-patterns/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/design/design-patterns/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/design/design-patterns/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/design/design-patterns/</guid>
       <description>
         
         
@@ -186,22 +186,22 @@ Single responsibility principle
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/apis/api-design/&#34; title=&#34;API design&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/apis/api-design/&#34; title=&#34;API design&#34;&gt;
     API design
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/api-integrations/&#34; title=&#34;API integrations&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/api-integrations/&#34; title=&#34;API integrations&#34;&gt;
     API integrations
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/data-integrations/&#34; title=&#34;Data integrations&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/data-integrations/&#34; title=&#34;Data integrations&#34;&gt;
     Data integrations
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/messaging-systems/&#34; title=&#34;Messaging systems&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/integrations/messaging-systems/&#34; title=&#34;Messaging systems&#34;&gt;
     Messaging systems
 &lt;/a&gt;
 &lt;/p&gt;
@@ -211,10 +211,10 @@ Single responsibility principle
     
     <item>
       <title>Docs: Messaging systems</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/integrations/messaging-systems/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/integrations/messaging-systems/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/integrations/messaging-systems/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/integrations/messaging-systems/</guid>
       <description>
         
         
@@ -256,7 +256,7 @@ Amazon Auto Scaling
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/design/architecture/&#34; title=&#34;Architecture&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/design/architecture/&#34; title=&#34;Architecture&#34;&gt;
     Architecture
 &lt;/a&gt;
 &lt;/p&gt;
@@ -266,10 +266,10 @@ Amazon Auto Scaling
     
     <item>
       <title>Docs: Test principles</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/testing/test-principles/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/testing/test-principles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/testing/test-principles/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/testing/test-principles/</guid>
       <description>
         
         
@@ -311,7 +311,7 @@ Test pyramid
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-processes/&#34; title=&#34;Agile processes&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/agile/agile-processes/&#34; title=&#34;Agile processes&#34;&gt;
     Agile processes
 &lt;/a&gt;
 &lt;/p&gt;

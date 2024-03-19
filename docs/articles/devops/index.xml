@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SEKB – DevOps</title>
-    <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/devops/</link>
+    <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/devops/</link>
     <description>Recent content in DevOps on SEKB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/devops/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://jabhatfield.github.io/sekb-hugo-docs/articles/devops/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Docs: CI/CD</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/devops/cicd/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/devops/cicd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/devops/cicd/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/devops/cicd/</guid>
       <description>
         
         
@@ -61,12 +61,12 @@ GitHub Actions
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-deployment/&#34; title=&#34;Cloud deployment&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-deployment/&#34; title=&#34;Cloud deployment&#34;&gt;
     Cloud deployment
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-management/&#34; title=&#34;Cloud management&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-management/&#34; title=&#34;Cloud management&#34;&gt;
     Cloud management
 &lt;/a&gt;
 &lt;/p&gt;
@@ -76,10 +76,10 @@ GitHub Actions
     
     <item>
       <title>Docs: Containerisation</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/devops/containerisation/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/devops/containerisation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/devops/containerisation/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/devops/containerisation/</guid>
       <description>
         
         
@@ -121,12 +121,12 @@ Helm
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-deployment/&#34; title=&#34;Cloud deployment&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-deployment/&#34; title=&#34;Cloud deployment&#34;&gt;
     Cloud deployment
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-management/&#34; title=&#34;Cloud management&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/cloud-services/cloud-management/&#34; title=&#34;Cloud management&#34;&gt;
     Cloud management
 &lt;/a&gt;
 &lt;/p&gt;
@@ -136,10 +136,10 @@ Helm
     
     <item>
       <title>Docs: System administration</title>
-      <link>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/devops/system-administration/</link>
+      <link>https://jabhatfield.github.io/sekb-hugo-docs/articles/devops/system-administration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/articles/devops/system-administration/</guid>
+      <guid>https://jabhatfield.github.io/sekb-hugo-docs/articles/devops/system-administration/</guid>
       <description>
         
         
@@ -181,7 +181,7 @@ GitHub
 &lt;/ul&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://jon-hatfield-tech-writing.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/assisting-tools/ides/&#34; title=&#34;IDEs&#34;&gt;
+&lt;a href=&#34;https://jabhatfield.github.io/sekb-hugo-docs/sekb-hugo-docs/articles/assisting-tools/ides/&#34; title=&#34;IDEs&#34;&gt;
     IDEs
 &lt;/a&gt;
 &lt;/p&gt;
